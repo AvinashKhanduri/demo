@@ -1,0 +1,359 @@
+Question 1:
+Which keyword is used to declare a variable in C?
+A) define
+B) var
+C) int
+D) variable
+
+Answer: C) int
+
+Question 2:
+What is the maximum number of characters allowed for a variable name in C?
+A) 15
+B) 31
+C) 63
+D) There's no specific limit
+
+Answer: D) There's no specific limit
+
+Question 3:
+Which keyword is used to define a constant in C?
+A) constant
+B) define
+C) const
+D) var
+
+Answer: C) const
+
+Question 4:
+What is the default value of an uninitialized variable in C?
+A) 0
+B) 1
+C) Depends on the data type
+D) Garbage value
+
+Answer: D) Garbage value
+
+Question 5:
+Which keyword is used to declare a pointer variable in C?
+A) ptr
+B) point
+C) *
+D) pointer
+
+Answer: C) *
+
+Question 6:
+What is the purpose of the 'extern' keyword in C?
+A) Declares a variable as a global variable
+B) Initializes a variable
+C) Defines a variable
+D) Deletes a variable
+
+Answer: A) Declares a variable as a global variable
+
+Question 7:
+Which keyword is used to indicate that a variable cannot be modified in a program in C?
+A) immutable
+B) final
+C) const
+D) readonly
+
+Answer: C) const
+
+Question 8:
+What is the size of the 'int' data type in C on most systems?
+A) 2 bytes
+B) 4 bytes
+C) 8 bytes
+D) Depends on the compiler
+
+Answer: B) 4 bytes
+
+Question 9:
+Which keyword is used to terminate the execution of a loop in C?
+A) exit
+B) terminate
+C) quit
+D) break
+
+Answer: D) break
+
+Question 10:
+What is the purpose of the 'volatile' keyword in C?
+A) Specifies that the variable can only be modified by the program
+B) Informs the compiler that the variable might be changed by external sources
+C) Declares a variable constant
+D) Initializes a variable to its default value
+
+Answer: B) Informs the compiler that the variable might be changed by external sources
+
+Question 11:
+Which keyword in C is used to define a function?
+A) func
+B) define
+C) function
+D) void
+
+Answer: D) void
+
+Question 12:
+What is the keyword used to access the address of a variable in C?
+A) &
+B) *
+C) $
+D) @
+
+Answer: A) &
+
+Question 13:
+Which keyword is used to define a structure in C?
+A) structure
+B) typedef
+C) define
+D) struct
+
+Answer: D) struct
+
+Question 14:
+What is the purpose of the 'sizeof' operator in C?
+A) Determines the size of a variable in bytes
+B) Performs mathematical operations
+C) Compares two variables
+D) Initializes a variable
+
+Answer: A) Determines the size of a variable in bytes
+
+Question 15:
+Which keyword is used to define a union in C?
+A) union
+B) define
+C) typedef
+D) struct
+
+Answer: A) union
+
+Question 16:
+What does the 'auto' keyword do in C?
+A) Specifies the automatic storage class for variables
+B) Automatically initializes variables
+C) Declares a variable as a constant
+D) Allocates memory for variables
+
+Answer: A) Specifies the automatic storage class for variables
+
+Question 17:
+What is the purpose of the 'register' keyword in C?
+A) Declares a variable to be stored in the register
+B) Specifies a variable as a constant
+C) Initializes a variable
+D) Declares a global variable
+
+Answer: A) Declares a variable to be stored in the register
+
+Question 18:
+Which keyword is used to define a typedef in C?
+A) typedef
+B) type
+C) define
+D) typedefine
+
+Answer: A) typedef
+
+Question 19:
+What is the purpose of the 'static' keyword in C?
+A) Defines a variable as a constant
+B) Specifies the storage class as static for variables
+C) Initializes a variable
+D) Declares a global variable
+
+Answer: B) Specifies the storage class as static for variables
+
+Question 20:
+What keyword is used to indicate that a function does not return a value in C?
+A) void
+B) null
+C) none
+D) return
+
+Answer: A) void
+
+Question 21:
+Which keyword in C is used to include a file in another file?
+A) #use
+B) #import
+C) #include
+D) #define
+
+Answer: C) #include
+
+Question 22:
+What is the purpose of the 'break' keyword in C?
+A) Terminates the entire program
+B) Exits from a loop or switch statement
+C) Skips to the next iteration in a loop
+D) Halts the execution temporarily
+
+Answer: B) Exits from a loop or switch statement
+
+Question 23:
+Which keyword is used to define an enumeration in C?
+A) enum
+B) define
+C) enumdef
+D) enumtype
+
+Answer: A) enum
+
+Question 24:
+What does the 'extern' keyword do when used with a variable in C?
+A) Declares and initializes the variable
+B) Declares the variable but does not allocate memory for it
+C) Exits the program if the variable is not found
+D) Declares a constant variable
+
+Answer: B) Declares the variable but does not allocate memory for it
+
+Question 25:
+Which keyword in C is used to define a macro?
+A) #macro
+B) #define
+C) #macrodef
+D) #var
+
+Answer: B) #define
+
+Question 26:
+What is the purpose of the 'const' keyword in C?
+A) Declares a variable as constant
+B) Initializes a variable with a constant value
+C) Terminates the program if a condition is met
+D) Indicates the beginning of a loop
+
+Answer: A) Declares a variable as constant
+
+Question 27:
+What is the default storage class for local variables in a C function?
+A) static
+B) auto
+C) register
+D) extern
+
+Answer: B) auto
+
+Question 228:
+Which keyword in C is used to access the structure members through a pointer?
+A) .
+B) &
+C) ->
+D) :
+
+Answer: C) ->
+
+Question 29:
+What is the purpose of the 'volatile' keyword in C?
+A) Specifies a variable as constant
+B) Declares a variable with variable-length
+C) Forces the compiler to not optimize the variable
+D) Indicates a variable as a global variable
+
+Answer: C) Forces the compiler to not optimize the variable
+
+Question 30:
+Which keyword is used to exit a function and return a value in C?
+A) end
+B) exit
+C) return
+D) terminate
+
+Answer: C) return
+
+Question 31:
+What is the purpose of the 'sizeof' operator in C?
+A) Returns the size of a structure
+B) Determines the size of a variable in bytes
+C) Calculates the size of an array
+D) Measures the length of a string
+
+Answer: B) Determines the size of a variable in bytes
+
+Question 32:
+Which keyword in C is used to define a function that doesn't return any value?
+A) none
+B) null
+C) empty
+D) void
+
+Answer: D) void
+
+Question 33:
+What is the storage class of a global variable declared outside of all functions in C by default?
+A) extern
+B) auto
+C) static
+D) register
+
+Answer: A) extern
+
+Question 34:
+Which keyword in C is used to declare a variable that holds the address of another variable?
+A) &
+B) *
+C) @
+D) $
+
+Answer: B) *
+
+Question 35:
+What is the purpose of the 'continue' keyword in C?
+A) Terminates the loop
+B) Skips the rest of the loop body and jumps to the next iteration
+C) Halts the program execution
+D) Jumps to a specified label in the loop
+
+Answer: B) Skips the rest of the loop body and jumps to the next iteration
+
+Question 36:
+Which keyword in C is used to define a multi-line comment?
+A) /*
+B) #
+C) //
+D) \
+
+Answer: A) /*
+
+Question 37:
+What is the purpose of the 'goto' keyword in C?
+A) Terminates the program
+B) Skips to the end of the function
+C) Jumps to a specified label in the code
+D) Returns from a loop
+
+Answer: C) Jumps to a specified label in the code
+
+Question 38:
+Which keyword is used to indicate the end of a structure in C?
+A) endstruct
+B) closestruct
+C) finishstruct
+D) }
+
+Answer: D) }
+
+Question 39:
+What does the 'union' keyword do in C?
+A) Defines a structure
+B) Defines a union variable
+C) Declares a union member
+D) Combines multiple variables at the same memory location
+
+Answer: D) Combines multiple variables at the same memory location
+
+Question 40:
+Which keyword in C is used to define a single-line comment?
+A) //
+B) /*
+C) #
+D) \
+
+Answer: A) //

@@ -1,0 +1,538 @@
+Question 1:
+What is the primary purpose of a compiler?
+A) To convert high-level programming languages to machine code
+B) To execute programs
+C) To debug code
+D) To optimize code
+Answer: A
+
+Question 2:
+Who developed the C programming language?
+A) Steve Jobs
+B) Dennis Ritchie
+C) Bill Gates
+D) Linus Torvalds
+Answer: B
+
+Question 3:
+What does the acronym 'IDE' stand for in the context of programming?
+A) Integrated Design Environment
+B) Integrated Development Environment
+C) Intelligent Development Engine
+D) Integrated Debugging Environment
+Answer: B
+
+Question 4:
+What is the file extension used for C source code files?
+A) .exe
+B) .com
+C) .c
+D) .cpp
+Answer: C
+
+Question 5:
+What is the purpose of the 'printf' function in C?
+A) To scan user input
+B) To print formatted output to the console
+C) To perform mathematical operations
+D) To define functions
+Answer: B
+
+Question 6:
+Which keyword is used to include a standard input-output library in C?
+A) #include<stdio.h>
+B) #import<stdio.h>
+C) #include<io.h>
+D) #import<conio.h>
+Answer: A
+
+Question 7:
+What is the smallest individual unit of a C program?
+A) Statement
+B) Function
+C) Character
+D) Variable
+Answer: C
+
+Question 8:
+Which symbol is used to denote a single-line comment in C?
+A) //
+B) %%
+C) --
+D) **
+Answer: A
+
+Question 9:
+Which operator is used for pointer access in C?
+A) *
+B) &
+C) ->
+D) %
+Answer: C
+
+Question 10:
+What is the function of the 'sizeof' operator in C?
+A) Returns the size of a file
+B) Returns the size of a variable
+C) Returns the sum of two numbers
+D) Returns the ASCII value of a character
+Answer: B
+
+Question 11:
+How are multi-line comments denoted in C?
+A) /* ... /
+B) // ...
+C) / ... //
+D) /* ... */
+Answer: A
+
+Question 12:
+Which loop in C is used to execute a block of code repeatedly as long as the condition remains true?
+A) for loop
+B) while loop
+C) do-while loop
+D) switch loop
+Answer: B
+
+Question 13:
+What is the escape sequence for a new line in C?
+A) \n
+B) \t
+C) \r
+D) \b
+Answer: A
+
+Question 14:
+Which type of data cannot be stored in a variable declared as 'char' in C?
+A) Characters
+B) Integers
+C) Floating-point numbers
+D) Strings
+Answer: D
+
+Question 15:
+What is the purpose of the 'scanf' function in C?
+A) To print output to the console
+B) To read input from the console
+C) To perform mathematical calculations
+D) To define functions
+Answer: B
+
+Question 16:
+Which function in C is used to allocate memory dynamically?
+A) malloc()
+B) calloc()
+C) realloc()
+D) free()
+Answer: A
+
+Question 17:
+What is the purpose of the 'break' statement in C?
+A) To exit the loop or switch statement
+B) To skip the current iteration
+C) To print output
+D) To define a new function
+Answer: A
+
+Question 18:
+Which keyword is used to declare a constant in C?
+A) const
+B) constant
+C) var
+D) final
+Answer: A
+
+Question 19:
+What is the output of the following C code snippet?
+#include<stdio.h>
+int main() {
+    int x = 5;
+    printf("%d", x++);
+    return 0;
+}
+A) 6
+B) 5
+C) 4
+D) Error
+Answer: B
+
+Question 20:
+What is the purpose of the 'typedef' keyword in C?
+A) To define a new function
+B) To define a new data type
+C) To include a library
+D) To declare a constant
+Answer: B
+
+Question 21:
+What is the syntax to access the value pointed by a pointer variable 'ptr' in C?
+A) ptr
+B) *ptr
+C) &ptr
+D) ->ptr
+Answer: B
+
+Question 22:
+Which function is used to compare two strings in C?
+A) strcmp()
+B) strcomp()
+C) compare()
+D) equal()
+Answer: A
+
+Question 23:
+What is the function of the 'continue' statement in C?
+A) To exit the loop
+B) To skip the remaining code in the loop and move to the next iteration
+C) To print output
+D) To define a new function
+Answer: B
+
+Question 24:
+Which header file is required to use the 'malloc' and 'free' functions in C?
+A) <stdlib.h>
+B) <memory.h>
+C) <alloc.h>
+D) <stdio.h>
+Answer: A
+
+Question 25:
+What does the '&&' operator represent in C?
+A) Logical OR
+B) Logical AND
+C) Bitwise OR
+D) Bitwise AND
+Answer: B
+
+Question 26:
+Which function in C is used to convert a string to an integer?
+A) atoi()
+B) itoa()
+C) stoi()
+D) intToStr()
+Answer: A
+
+Question 27:
+What is the purpose of the 'static' keyword in C?
+A) To declare a global variable
+B) To make a local variable persistent throughout program execution
+C) To prevent a variable from being modified
+D) To define a new function
+Answer: B
+
+Question 28:
+Which data type is used to store a single character in C?
+A) char
+B) int
+C) float
+D) double
+Answer: A
+
+Question 29:
+What is the output of the following C code snippet?
+
+
+#include<stdio.h>
+int main() {
+    int a = 10;
+    int b = 20;
+    int result = (a > b) ? a : b;
+    printf("%d", result);
+    return 0;
+}
+A) 10
+B) 20
+C) 0
+D) Error
+Answer: B
+
+Question 30:
+What does the 'do-while' loop ensure in C?
+A) It executes the loop at least once before checking the condition
+B) It doesn’t execute if the condition is false
+C) It executes based on a predefined number of iterations
+D) It doesn’t check the condition
+Answer: A
+
+Question 31:
+Which function in C is used to open a file?
+A) fopen()
+B) open()
+C) file_open()
+D) fileopen()
+Answer: A
+
+Question 31:
+Which function in C is used to open a file?
+A) fopen()
+B) open()
+C) file_open()
+D) fileopen()
+Answer: A
+
+Question 32:
+What is the purpose of the 'union' in C?
+A) To declare a structure
+B) To combine variables of different data types into a single variable
+C) To declare an array
+D) To perform mathematical operations
+Answer: B
+
+Question 33:
+Which escape sequence is used to represent a tab in C?
+A) \n
+B) \t
+C) \b
+D) \r
+Answer: B
+
+Question 34:
+What is the output of the following C code snippet?
+
+#include<stdio.h>
+int main() {
+    int x = 5;
+    int y = 10;
+    x += y;
+    printf("%d", x);
+    return 0;
+}
+A) 5
+B) 10
+C) 15
+D) Error
+Answer: C
+
+Question 35:
+What is the purpose of the 'volatile' keyword in C?
+A) To define a constant variable
+B) To declare a variable as a pointer
+C) To declare a variable as an array
+D) To indicate that the variable may change asynchronously
+Answer: D
+
+Question 36:
+Which function in C is used to convert a character to its ASCII value?
+A) atoi()
+B) itoa()
+C) stoi()
+D) intToStr()
+Answer: D
+
+Question 37:
+What does the '||' operator represent in C?
+A) Logical OR
+B) Logical AND
+C) Bitwise OR
+D) Bitwise AND
+Answer: A
+
+Question 38:
+Which function in C is used to copy strings?
+A) strcpy()
+B) strcopy()
+C) copystr()
+D) duplicate()
+Answer: A
+
+Question 39:
+What is the output of the following C code snippet?
+
+#include<stdio.h>
+int main() {
+    int i = 0;
+    while (i < 5) {
+        printf("%d ", i);
+        i++;
+    }
+    return 0;
+}
+A) 0 1 2 3 4
+B) 1 2 3 4 5
+C) 0 1 2 3
+D) 1 2 3 4
+Answer: A
+
+Question 40:
+What is the purpose of the 'const' keyword in C?
+A) To define a constant variable
+B) To declare a variable as a pointer
+C) To declare a variable as an array
+D) To indicate that the variable may change asynchronously
+Answer: A
+
+Question 41:
+Which function in C is used to find the length of a string?
+A) lenstr()
+B) strlength()
+C) strlen()
+D) length()
+Answer: C
+
+Question 42:
+What does the '->' operator represent in C?
+A) Pointer to member
+B) Logical OR
+C) Logical AND
+D) Bitwise OR
+Answer: A
+
+Question 43:
+Which function in C is used to find the absolute value of a number?
+A) abs()
+B) fabs()
+C) absolute()
+D) absval()
+Answer: A
+
+Question 44:
+What is the output of the following C code snippet?
+
+#include<stdio.h>
+int main() {
+    int i;
+    for (i = 0; i < 3; i++) {
+        printf("%d ", i);
+    }
+    printf("%d", i);
+    return 0;
+}
+A) 0 1 2 3
+B) 0 1 2
+C) 1 2 3
+D) 0 1 2 3 4
+Answer: B
+
+Question 45:
+What is the purpose of the 'goto' statement in C?
+A) To define a label
+B) To exit the loop
+C) To jump to a specific line of code
+D) To define a function
+Answer: C
+
+Question 46:
+Which function in C is used to convert a floating-point number to an integer?
+A) itof()
+B) floatToInt()
+C) (int)
+D) (float)
+Answer: C
+
+Question 47:
+What is the output of the following C code snippet?
+
+#include<stdio.h>
+int main() {
+    int i = 5;
+    while (i) {
+        printf("%d ", i--);
+    }
+    return 0;
+}
+A) 5 4 3 2 1
+B) 4 3 2 1
+C) 5
+D) 1 2 3 4 5
+Answer: A
+
+Question 48:
+What is the purpose of the 'register' keyword in C?
+A) To declare a global variable
+B) To define a function
+C) To optimize the storage of a variable by storing it in a CPU register
+D) To define a constant variable
+Answer: C
+
+Question 49:
+Which function in C is used to search for a character in a string?
+A) strchr()
+B) search()
+C) findchar()
+D) charsearch()
+Answer: A
+
+Question 50:
+What does the 'break' statement do in C?
+A) Exits the loop
+B) Skips the remaining code in the loop and moves to the next iteration
+C) Prints output
+D) Defines a new function
+Answer: A
+
+Question 51:
+Which function in C is used to round a floating-point number to the nearest integer?
+A) ceil()
+B) round()
+C) floor()
+D) roundToNearest()
+Answer: B
+
+Question 52:
+What is the output of the following C code snippet?
+
+#include<stdio.h>
+int main() {
+    int i;
+    for (i = 0; i < 5; ++i) {
+        printf("%d ", i);
+        i++;
+    }
+    return 0;
+}
+A) 0 1 2 3 4
+B) 0 2 4
+C) 0 1 2 3
+D) 1 3 5
+Answer: B
+
+Question 53:
+What is the purpose of the 'const' keyword in C function parameters?
+A) To define a constant variable
+B) To declare a variable as a pointer
+C) To indicate that the parameter won't change within the function
+D) To indicate that the parameter may change asynchronously
+Answer: C
+
+Question 54:
+Which function in C is used to convert an integer to a string?
+A) itoa()
+B) atoi()
+C) intToStr()
+D) strToInt()
+Answer: A
+
+Question 55:
+What is the output of the following C code snippet?
+
+#include<stdio.h>
+int main() {
+    int x = 10;
+    if (x == 10)
+        printf("Hello ");
+    else
+        printf("World");
+    printf("OpenAI");
+    return 0;
+}
+A) Hello OpenAI
+B) World OpenAI
+C) Hello World OpenAI
+D) OpenAI
+Answer: A
+
+Question 56:
+What is the purpose of the 'size_t' data type in C?
+A) To store sizes of objects
+B) To store floating-point numbers
+C) To store characters
+D) To store integers
+Answer: A
+
+Question 57:
+Which function in C is used to convert a lowercase character to an uppercase character?
+A) tolower()
+B) upper()
+C) toUpperCase()
+D) toupper()
+Answer: D

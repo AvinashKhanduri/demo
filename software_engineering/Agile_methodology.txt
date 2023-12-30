@@ -1,0 +1,363 @@
+Question 1:
+What is Agile methodology primarily focused on in software development?
+A) Strict planning and documentation
+B) Quick development and flexibility
+C) Long-term project stability
+D) Detailed requirement analysis
+
+Answer: B) Quick development and flexibility
+
+Question 2:
+Which Agile principle emphasizes individuals and interactions over processes and tools?
+A) Customer collaboration over contract negotiation
+B) Responding to change over following a plan
+C) Working software over comprehensive documentation
+D) Individuals and interactions over processes and tools
+
+Answer: D) Individuals and interactions over processes and tools
+
+Question 3:
+What is the primary goal of the daily stand-up meeting in Agile?
+A) Detailed status reporting
+B) Identifying project risks
+C) Team collaboration and synchronization
+D) Reviewing project documentation
+
+Answer: C) Team collaboration and synchronization
+
+Question 4:
+What is the term used in Agile to represent the process of breaking down work into smaller, manageable parts?
+A) Fragmentation
+B) Decomposition
+C) Segmentation
+D) Partitioning
+
+Answer: B) Decomposition
+
+Question 5:
+Which Agile framework emphasizes continuous improvement and self-organization within teams?
+A) Scrum
+B) Kanban
+C) Lean
+D) Extreme Programming (XP)
+
+Answer: A) Scrum
+
+Question 6:
+What is the purpose of the 'Definition of Done' in Agile?
+A) It defines the acceptance criteria for each user story
+B) It describes the tasks needed to complete a sprint
+C) It defines the project completion timeline
+D) It sets the standard of when a task is considered completed
+
+Answer: D) It sets the standard of when a task is considered completed
+
+Question 7:
+What is the time-boxed period in Scrum where the development work takes place called?
+A) Session
+B) Timeframe
+C) Iteration
+D) Cycle
+
+Answer: C) Iteration
+
+Question 8:
+What is the core concept of Agile Manifesto's principle 'Responding to change over following a plan'?
+A) Flexibility and adaptability
+B) Rigidity and stability
+C) Documentation and planning
+D) Predictability and control
+
+Answer: A) Flexibility and adaptability
+
+Question 9:
+What is the role of a Product Owner in Agile development?
+A) Managing team tasks and progress
+B) Prioritizing product backlog items
+C) Implementing technical solutions
+D) Testing and quality assurance
+
+Answer: B) Prioritizing product backlog items
+
+Question 10:
+Which Agile principle advocates for frequent delivery of working software?
+A) Customer collaboration over contract negotiation
+B) Responding to change over following a plan
+C) Working software over comprehensive documentation
+D) Deliver working software frequently
+
+Answer: D) Deliver working software frequently
+
+Question 11:
+What is the purpose of a retrospective meeting in Agile?
+A) To plan the sprint backlog
+B) To inspect and adapt the team's processes
+C) To review the product increment
+D) To discuss project timelines
+
+Answer: B) To inspect and adapt the team's processes
+
+Question 12:
+Which Agile framework is known for its visualization of work on a Kanban board?
+A) Scrum
+B) Lean
+C) Kanban
+D) Extreme Programming (XP)
+
+Answer: C) Kanban
+
+Question 13:
+What is the key goal of user stories in Agile development?
+A) Detailed technical specifications
+B) Defining project milestones
+C) Describing user requirements from a user's perspective
+D) Documenting testing scenarios
+
+Answer: C) Describing user requirements from a user's perspective
+
+Question 14:
+What is the term used in Agile to represent the time-bound iteration for completing work?
+A) Milestone
+B) Iteration
+C) Phase
+D) Sprint
+
+Answer: D) Sprint
+
+Question 15:
+Which Agile practice involves breaking down user stories into smaller, more manageable tasks?
+A) Story mapping
+B) Tasking
+C) Sprint planning
+D) Backlog grooming
+
+Answer: B) Tasking
+
+Question 16:
+What is the purpose of a burndown chart in Agile development?
+A) To track the number of tasks completed per sprint
+B) To visualize the amount of work remaining in a sprint
+C) To display the overall project timeline
+D) To track the team's velocity
+
+Answer: B) To visualize the amount of work remaining in a sprint
+
+Question 17:
+Which Agile ceremony involves reviewing the completed work and demonstrating it to stakeholders?
+A) Sprint planning
+B) Daily stand-up
+C) Sprint review
+D) Retrospective
+
+Answer: C) Sprint review
+
+Question 18:
+What does the 'Continuous Integration' practice in Agile focus on?
+A) Frequent deployment to production
+B) Merging code changes into a shared repository frequently
+C) Continuous testing of software
+D) Frequent retrospective meetings
+
+Answer: B) Merging code changes into a shared repository frequently
+
+Question 19:
+Which Agile value promotes customer collaboration and involvement throughout the project?
+A) Working software over comprehensive documentation
+B) Responding to change over following a plan
+C) Customer satisfaction by early and continuous delivery
+D) Individuals and interactions over processes and tools
+
+Answer: C) Customer satisfaction by early and continuous delivery
+
+Question 20:
+What is the purpose of the 'Velocity' metric in Agile?
+A) It measures the team's progress towards project completion
+B) It indicates the speed of the development team
+C) It measures the project's overall success
+D) It tracks the time spent on each task
+
+Answer: A) It measures the team's progress towards project completion
+
+Question 21:
+What is the primary goal of a sprint planning meeting in Agile?
+A) Reviewing the completed work
+B) Planning and selecting user stories for the upcoming sprint
+C) Retrospecting on the team's performance
+D) Conducting a daily stand-up meeting
+
+Answer: B) Planning and selecting user stories for the upcoming sprint
+
+Question 22:
+Which Agile practice involves the team estimating the effort required to complete user stories or tasks?
+A) Sprint planning
+B) Daily stand-up
+C) Story pointing
+D) Retrospective
+
+Answer: C) Story pointing
+
+Question 23:
+What is the purpose of the 'Product Backlog' in Agile?
+A) To track the progress of tasks in a sprint
+B) To list all the defects found during testing
+C) To document the technical specifications of the product
+D) To maintain a prioritized list of features and requirements
+
+Answer: D) To maintain a prioritized list of features and requirements
+
+Question 24:
+Which Agile framework emphasizes continuous flow and limiting work in progress (WIP)?
+A) Scrum
+B) Kanban
+C) Extreme Programming (XP)
+D) Lean
+
+Answer: B) Kanban
+
+Question 25:
+What is the role of a Scrum Master in Agile?
+A) Managing the project budget
+B) Facilitating the Scrum events and removing impediments
+C) Writing code for the project
+D) Prioritizing user stories
+
+Answer: B) Facilitating the Scrum events and removing impediments
+
+Question 26:
+What is the term used in Agile to represent a small, incremental change in a product?
+A) Increment
+B) Iteration
+C) Spike
+D) Epic
+
+Answer: A) Increment
+
+Question 27:
+Which Agile value emphasizes the importance of working software as the primary measure of progress?
+A) Customer collaboration over contract negotiation
+B) Responding to change over following a plan
+C) Working software over comprehensive documentation
+D) Individuals and interactions over processes and tools
+
+Answer: C) Working software over comprehensive documentation
+
+Question 28:
+What is the purpose of the 'Daily Stand-up' meeting in Agile?
+A) To update project documentation
+B) To report individual progress to the project manager
+C) To synchronize and plan work for the day within the team
+D) To discuss technical issues
+
+Answer: C) To synchronize and plan work for the day within the team
+
+Question 29:
+In Agile, what does the term 'Epic' refer to?
+A) A small user story
+B) A large and complex user story that can be broken down
+C) A sprint goal
+D) A technical task
+
+Answer: B) A large and complex user story that can be broken down
+
+Question 30:
+Which Agile principle emphasizes delivering working software frequently, from a couple of weeks to a couple of months?
+A) Customer collaboration over contract negotiation
+B) Responding to change over following a plan
+C) Deliver working software frequently
+D) Individuals and interactions over processes and tools
+
+Answer: C) Deliver working software frequently
+
+Question 31:
+What is the key objective of the 'Retrospective' meeting in Agile?
+A) Planning the upcoming sprint
+B) Reviewing and improving team processes
+C) Reviewing completed user stories
+D) Discussing customer feedback
+
+Answer: B) Reviewing and improving team processes
+
+Question 32:
+What is the purpose of the 'Definition of Ready' in Agile?
+A) It defines the criteria for accepting completed user stories
+B) It defines the tasks required to start a sprint
+C) It defines the conditions that must be met for a user story to be taken into a sprint backlog
+D) It outlines the tasks to be completed within a sprint
+
+Answer: C) It defines the conditions that must be met for a user story to be taken into a sprint backlog
+
+Question 33:
+What does the 'Increment' represent in the context of Agile?
+A) A small user story
+B) The sum of all completed user stories in a sprint
+C) A deliverable that is potentially shippable to stakeholders
+D) A user story that needs further refinement
+
+Answer: C) A deliverable that is potentially shippable to stakeholders
+
+Question 34:
+Which Agile practice involves breaking down complex user stories into smaller, more manageable ones?
+A) Story Decomposition
+B) User Story Splitting
+C) Tasking
+D) Refinement
+
+Answer: B) User Story Splitting
+
+Question 35:
+What is the goal of the 'Sprint Review' meeting in Agile?
+A) To plan the next sprint
+B) To inspect and adapt the product increment
+C) To discuss impediments faced during the sprint
+D) To review and update the project backlog
+
+Answer: B) To inspect and adapt the product increment
+
+Question 36:
+Which Agile value prioritizes customer collaboration and involvement throughout the project?
+A) Customer satisfaction by early and continuous delivery
+B) Working software over comprehensive documentation
+C) Responding to change over following a plan
+D) Individuals and interactions over processes and tools
+
+Answer: A) Customer satisfaction by early and continuous delivery
+
+Question 37:
+What is the main objective of the 'Task Board' or 'Kanban Board' in Agile?
+A) To list the project risks
+B) To visualize and manage the workflow
+C) To document the sprint goals
+D) To allocate tasks to team members
+
+Answer: B) To visualize and manage the workflow
+
+Question 38:
+What is the purpose of the 'Definition of Ready' in Agile?
+A) To track the progress of tasks in a sprint
+B) To outline the activities to be performed during a sprint
+C) To specify the conditions that must be met for a user story to be taken into development
+D) To define the tasks required to start a sprint
+
+Answer: C) To specify the conditions that must be met for a user story to be taken into development
+
+Question 39:
+In Agile, what does the term 'Sprint Backlog' refer to?
+A) A list of completed tasks at the end of a sprint
+B) The sum of all user stories in a sprint
+C) The set of tasks assigned to a team member for a sprint
+D) The list of user stories committed for the current sprint
+
+Answer: D) The list of user stories committed for the current sprint
+
+Question 40:
+What is the key goal of the 'Refinement' meeting in Agile?
+A) To review completed user stories
+B) To refine and clarify upcoming user stories
+C) To finalize the project documentation
+D) To retrospect on the sprint
+
+Answer: B) To refine and clarify upcoming user stories
+
+
+
+

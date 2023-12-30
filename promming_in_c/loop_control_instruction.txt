@@ -1,0 +1,250 @@
+Question 1:
+Which loop in C is used when the number of iterations is known beforehand?
+A) while loop
+B) for loop
+C) do-while loop
+D) switch loop
+Answer: B
+
+Question 2:
+What will happen if the condition of a 'while' loop is initially false?
+A) The loop runs indefinitely
+B) The loop will not execute at all
+C) The loop will execute once
+D) The compiler throws an error
+Answer: B
+
+Question 3:
+In the 'for' loop, which part is optional?
+A) Initialization
+B) Condition
+C) Increment/Decrement
+D) All parts are mandatory
+Answer: A
+
+Question 4:
+Which loop is guaranteed to execute at least once in C?
+A) while loop
+B) for loop
+C) do-while loop
+D) switch loop
+Answer: C
+
+Question 5:
+How many times does a 'do-while' loop execute if the condition is false initially?
+A) Once
+B) Twice
+C) Thrice
+D) It depends on the body of the loop
+Answer: A
+
+Question 6:
+Which loop structure is more suitable for situations where the number of iterations is unknown?
+A) for loop
+B) while loop
+C) do-while loop
+D) switch loop
+Answer: B
+
+Question 7:
+What is the purpose of the 'break' statement in a loop in C?
+A) Terminates the loop and continues with the next iteration
+B) Jumps to a specific label in the loop
+C) Skips the current iteration and continues with the next
+D) Terminates the loop completely
+Answer: D
+
+Question 8:
+Which statement is used to terminate the current iteration of a loop in C?
+A) halt
+B) stop
+C) break
+D) continue
+Answer: D
+
+Question 9:
+In a 'for' loop, where should the increment or decrement statement typically be placed?
+A) At the beginning
+B) At the end
+C) Anywhere within the loop body
+D) It's not mandatory to have an increment/decrement statement in a 'for' loop
+Answer: B
+
+Question 10:
+What is the purpose of the 'continue' statement in a loop in C?
+A) Terminates the loop
+B) Skips the current iteration and continues with the next
+C) Breaks out of the loop completely
+D) Jumps to a specific label in the loop
+Answer: B
+
+Question 11:
+Which loop in C can potentially result in an infinite loop?
+A) while loop
+B) for loop
+C) do-while loop
+D) All of the above
+Answer: D
+
+Question 12:
+What happens if the 'break' statement is not used within a 'switch' statement in C?
+A) It causes a compilation error
+B) It continues to the next case block
+C) It throws a runtime error
+D) It executes the default case
+Answer: B
+
+Question 13:
+How does the 'continue' statement differ from the 'break' statement in C?
+A) 'continue' terminates the loop, 'break' skips the current iteration
+B) 'continue' skips the current iteration, 'break' terminates the loop
+C) Both statements serve the same purpose
+D) There is no difference between them
+Answer: B
+
+Question 14:
+In a 'do-while' loop, where is the condition checked?
+A) At the beginning of the loop
+B) At the end of the loop
+C) After executing the loop body
+D) There is no condition check in a 'do-while' loop
+Answer: B
+
+Question 15:
+Which loop structure is used when the number of iterations is not known and the loop must execute at least once?
+A) while loop
+B) for loop
+C) do-while loop
+D) switch loop
+Answer: C
+
+Question 16:
+What will happen if the condition of a 'do-while' loop is always false?
+A) The loop runs indefinitely
+B) The loop will not execute at all
+C) The loop will execute once
+D) The compiler throws an error
+Answer: C
+
+Question 17:
+What is the purpose of the 'goto' statement in C?
+A) Terminates the loop
+B) Jumps to a specific label in the loop
+C) Skips the current iteration and continues with the next
+D) Jumps out of the loop completely
+Answer: B
+
+Question 18:
+How can an infinite loop be terminated?
+A) Using the 'continue' statement
+B) Using the 'break' statement
+C) By removing the loop condition
+D) By using the 'return' statement
+Answer: B
+
+Question 19:
+Which loop structure in C is best suited for cases where the number of iterations is known in advance?
+A) for loop
+B) while loop
+C) do-while loop
+D) switch loop
+Answer: A
+
+Question 20:
+What is the purpose of the 'exit' statement in a loop in C?
+A) Terminates the loop
+B) Jumps to a specific label in the loop
+C) Skips the current iteration and continues with the next
+D) Terminates the entire program
+Answer: D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

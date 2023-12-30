@@ -1,0 +1,359 @@
+Question 1:
+What is Software Design in software engineering?
+A) The process of writing code for software applications
+B) The process of defining the architecture, components, and interfaces of a software system
+C) The process of gathering user requirements
+D) The process of software testing
+
+Answer: B) The process of defining the architecture, components, and interfaces of a software system
+
+Question 2:
+What does the term 'Software Architecture' refer to in software design?
+A) The programming language used in software development
+B) The structure and organization of a software system
+C) The process of debugging software
+D) The documentation of software features
+
+Answer: B) The structure and organization of a software system
+
+Question 3:
+What is the primary goal of 'Structural Design' in software engineering?
+A) To outline the user requirements
+B) To develop the software code
+C) To define the structure of the software components and their relationships
+D) To plan the project timeline
+
+Answer: C) To define the structure of the software components and their relationships
+
+Question 4:
+What are the key aspects considered in 'Functional Design'?
+A) Architectural layout and system structure
+B) User interface and experience
+C) Software components' behavior and functionality
+D) Programming language syntax and semantics
+
+Answer: C) Software components' behavior and functionality
+
+Question 5:
+What is the significance of 'Design Patterns' in software design?
+A) They are templates for software documentation
+B) They help in detecting bugs in software code
+C) They provide proven solutions to common design problems
+D) They are used for generating test cases
+
+Answer: C) They provide proven solutions to common design problems
+
+Question 6:
+What does 'Coupling' refer to in software design?
+A) The level of interdependency between software modules
+B) The process of joining different programming languages
+C) The code syntax used to connect software components
+D) The testing phase to ensure integration between modules
+
+Answer: A) The level of interdependency between software modules
+
+Question 7:
+Which design principle emphasizes that software components should have a single responsibility?
+A) Separation of Concerns
+B) Modularity
+C) Encapsulation
+D) Single Responsibility Principle (SRP)
+
+Answer: D) Single Responsibility Principle (SRP)
+
+Question 8:
+What is 'Abstraction' in software design?
+A) A design method that hides unnecessary details and highlights essential features
+B) The process of encrypting software code
+C) A software development language
+D) A tool for debugging software
+
+Answer: A) A design method that hides unnecessary details and highlights essential features
+
+Question 9:
+What does 'Cohesion' refer to in software design?
+A) The degree of interconnection between software modules
+B) The process of software code compilation
+C) The degree to which elements within a module belong together
+D) The process of code optimization
+
+Answer: C) The degree to which elements within a module belong together
+
+Question 10:
+What is the purpose of the 'User Interface (UI) Design' in software engineering?
+A) To define software requirements
+B) To ensure the security of the software
+C) To create an intuitive and user-friendly interface
+D) To write code for the software
+
+Answer: C) To create an intuitive and user-friendly interface
+
+Question 11:
+What does 'Modularity' emphasize in software design?
+A) Encapsulation of data within software components
+B) Decomposing software into separate, interchangeable components
+C) The design of software interfaces
+D) Testing each software module independently
+
+Answer: B) Decomposing software into separate, interchangeable components
+
+Question 12:
+What is the significance of 'Encapsulation' in software design?
+A) It hides the complexity of internal operations and exposes only necessary functionalities
+B) It creates backups for software systems
+C) It defines the user interface of the software
+D) It ensures the scalability of software applications
+
+Answer: A) It hides the complexity of internal operations and exposes only necessary functionalities
+
+Question 13:
+Which design principle promotes separating software components based on their functionality?
+A) Cohesion
+B) Encapsulation
+C) Separation of Concerns
+D) Modularity
+
+Answer: C) Separation of Concerns
+
+Question 14:
+What is the main objective of 'Architectural Design' in software engineering?
+A) To define the software testing strategy
+B) To identify software bugs
+C) To define the overall structure and organization of a software system
+D) To create user documentation
+
+Answer: C) To define the overall structure and organization of a software system
+
+Question 15:
+What is the role of 'High Cohesion' in software design?
+A) To promote strong interdependency between software modules
+B) To improve maintainability and understandability of software components
+C) To reduce the efficiency of software performance
+D) To introduce redundancy in software code
+
+Answer: B) To improve maintainability and understandability of software components
+
+Question 16:
+What does 'Low Coupling' aim for in software design?
+A) To promote strong interdependency between software modules
+B) To minimize the interaction and dependency between software components
+C) To enhance the performance of software modules
+D) To increase the complexity of software systems
+
+Answer: B) To minimize the interaction and dependency between software components
+
+Question 17:
+What is the purpose of 'Data Flow Diagrams (DFD)' in software design?
+A) To represent the structure of data within software systems
+B) To create graphical user interfaces
+C) To analyze user requirements
+D) To document software testing results
+
+Answer: A) To represent the structure of data within software systems
+
+Question 18:
+What is the primary goal of 'Structural Modeling' in software design?
+A) To define the behavior of software components
+B) To analyze the performance of software systems
+C) To represent the relationships between software elements
+D) To define user requirements
+
+Answer: C) To represent the relationships between software elements
+
+Question 19:
+What does 'Interface Design' focus on in software design?
+A) Defining the internal structure of software components
+B) Defining the interactions between software modules
+C) Designing the user interface and interaction points of software
+D) Defining the software testing methodology
+
+Answer: C) Designing the user interface and interaction points of software
+
+Question 20:
+What is the role of 'CRC Cards' in software design?
+A) They are used for software documentation
+B) They are a testing tool for software systems
+C) They aid in representing classes, their responsibilities, and collaborations in object-oriented design
+D) They represent the execution flow of software components
+
+Answer: C) They aid in representing classes, their responsibilities, and collaborations in object-oriented design
+
+Question 21:
+What does the term 'Software Design' encompass in software engineering?
+A) Planning the project budget
+B) Creating algorithms for software development
+C) Outlining the structure and architecture of software systems
+D) Writing code for software implementation
+
+Answer: C) Outlining the structure and architecture of software systems
+
+Question 22:
+What is the significance of 'UML' (Unified Modeling Language) in software design?
+A) It is a programming language used for software development
+B) It is a method for software deployment
+C) It provides a standardized way to visualize and document software systems
+D) It is a tool for software testing
+
+Answer: C) It provides a standardized way to visualize and document software systems
+
+Question 23:
+What is the primary focus of 'Object-Oriented Design' in software engineering?
+A) Designing software for performance optimization
+B) Breaking down software systems into modules
+C) Representing software components as objects with properties and behaviors
+D) Writing test cases for software validation
+
+Answer: C) Representing software components as objects with properties and behaviors
+
+Question 24:
+What is the primary goal of 'System Design' in the software development process?
+A) To plan the project timeline
+B) To define the software's internal structure and interactions between components
+C) To create user documentation
+D) To write code for the software system
+
+Answer: B) To define the software's internal structure and interactions between components
+
+Question 25:
+What does 'Cohesion' emphasize in software design?
+A) Strong interdependency between software modules
+B) High coupling between software components
+C) The degree to which elements within a module belong together
+D) The process of code optimization
+
+Answer: C) The degree to which elements within a module belong together
+
+Question 26:
+What is the purpose of 'CRC Cards' in software design?
+A) To outline the software development process
+B) To represent the relationships between software elements
+C) To aid in representing classes, responsibilities, and collaborations in object-oriented design
+D) To define software requirements
+
+Answer: C) To aid in representing classes, responsibilities, and collaborations in object-oriented design
+
+Question 27:
+What does the term 'Interface Design' focus on in software engineering?
+A) Defining the internal structure of software components
+B) Designing the user interface and interaction points of software
+C) Defining the relationships between software modules
+D) Documenting the software testing process
+
+Answer: B) Designing the user interface and interaction points of software
+
+Question 28:
+What is the primary objective of 'Architectural Design' in software engineering?
+A) To plan the software testing strategy
+B) To define the overall structure and organization of a software system
+C) To write code for the software system
+D) To analyze user requirements
+
+Answer: B) To define the overall structure and organization of a software system
+
+Question 29:
+What does 'Encapsulation' refer to in software design?
+A) It hides the complexity of internal operations and exposes only necessary functionalities
+B) The process of connecting software components
+C) The process of software code compilation
+D) The method of organizing software components
+
+Answer: A) It hides the complexity of internal operations and exposes only necessary functionalities
+
+Question 30:
+What is the role of 'High Cohesion' in software design?
+A) To promote strong interdependency between software modules
+B) To improve maintainability and understandability of software components
+C) To reduce the efficiency of software performance
+D) To introduce redundancy in software code
+
+Answer: B) To improve maintainability and understandability of software components
+
+Question 31:
+What is the significance of 'Low Coupling' in software design?
+A) To promote strong interdependency between software modules
+B) To minimize the interaction and dependency between software components
+C) To enhance the performance of software modules
+D) To increase the complexity of software systems
+
+Answer: B) To minimize the interaction and dependency between software components
+
+Question 32:
+What does 'CRC Cards' aim to achieve in software design?
+A) Represent the execution flow of software components
+B) Assist in code optimization
+C) Facilitate object-oriented design by representing classes and their responsibilities
+D) Document the software architecture
+
+Answer: C) Facilitate object-oriented design by representing classes and their responsibilities
+
+Question 33:
+Which design principle emphasizes that software components should have a single responsibility?
+A) Separation of Concerns
+B) Modularity
+C) Encapsulation
+D) Single Responsibility Principle (SRP)
+
+Answer: D) Single Responsibility Principle (SRP)
+
+Question 34:
+What is the primary objective of 'Structural Modeling' in software design?
+A) To define the behavior of software components
+B) To analyze the performance of software systems
+C) To represent the relationships between software elements
+D) To define user requirements
+
+Answer: C) To represent the relationships between software elements
+
+Question 35:
+What does 'Modularity' emphasize in software design?
+A) Encapsulation of data within software components
+B) Decomposing software into separate, interchangeable components
+C) The design of software interfaces
+D) Testing each software module independently
+
+Answer: B) Decomposing software into separate, interchangeable components
+
+Question 36:
+What is the purpose of 'Data Flow Diagrams (DFD)' in software design?
+A) To represent the structure of data within software systems
+B) To create graphical user interfaces
+C) To analyze user requirements
+D) To document software testing results
+
+Answer: A) To represent the structure of data within software systems
+
+Question 37:
+What does 'Abstraction' refer to in software design?
+A) A tool for debugging software
+B) A design method that hides unnecessary details and highlights essential features
+C) A software development language
+D) The process of encrypting software code
+
+Answer: B) A design method that hides unnecessary details and highlights essential features
+
+Question 38:
+What is the primary focus of 'Object-Oriented Design' in software engineering?
+A) Designing software for performance optimization
+B) Breaking down software systems into modules
+C) Representing software components as objects with properties and behaviors
+D) Writing test cases for software validation
+
+Answer: C) Representing software components as objects with properties and behaviors
+
+Question 39:
+What is the significance of 'UML' (Unified Modeling Language) in software design?
+A) It is a programming language used for software development
+B) It is a method for software deployment
+C) It provides a standardized way to visualize and document software systems
+D) It is a tool for software testing
+
+Answer: C) It provides a standardized way to visualize and document software systems
+
+Question 40:
+What is the primary goal of 'System Design' in the software development process?
+A) To plan the project timeline
+B) To define the software's internal structure and interactions between components
+C) To create user documentation
+D) To write code for the software system
+
+Answer: B) To define the software's internal structure and interactions between components

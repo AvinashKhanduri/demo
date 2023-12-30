@@ -1,0 +1,359 @@
+Question 1:
+Which library in C should be included to use strings?
+A) stdio.h
+B) math.h
+C) string.h
+D) stdlib.h
+
+Answer: C) string.h
+
+Question 2:
+What is the correct way to declare a string in C?
+A) string text = "Hello";
+B) char *text = "Hello";
+C) char text[] = "Hello";
+D) string text[] = "Hello";
+
+Answer: C) char text[] = "Hello";
+
+Question 3:
+What is the null character in C representing the end of a string?
+A) \0
+B) \n
+C) #
+D) $
+
+Answer: A) \0
+
+Question 4:
+Which function in C is used to calculate the length of a string?
+A) strlen()
+B) len()
+C) strlength()
+D) length()
+
+Answer: A) strlen()
+
+Question 5:
+What function is used to concatenate two strings in C?
+A) strcat()
+B) strconcat()
+C) concat()
+D) join()
+
+Answer: A) strcat()
+
+Question 6:
+Which function in C is used to copy one string to another?
+A) strcopy()
+B) strcpy()
+C) copystr()
+D) copy()
+
+Answer: B) strcpy()
+
+Question 7:
+What is the correct format specifier to print a string in C using printf()?
+A) %s
+B) %d
+C) %c
+D) %f
+
+Answer: A) %s
+
+Question 8:
+Which function is used to compare two strings in C?
+A) strcomp()
+B) strcmp()
+C) compare()
+D) strcompare()
+
+Answer: B) strcmp()
+
+Question 9:
+What function in C is used to find the first occurrence of a character in a string?
+A) strchr()
+B) findchar()
+C) searchchar()
+D) charfind()
+
+Answer: A) strchr()
+
+Question 10:
+Which function is used to find the last occurrence of a character in a string in C?
+A) strrchr()
+B) lastchar()
+C) findlast()
+D) charlast()
+
+Answer: A) strrchr()
+
+Question 11:
+What function in C is used to tokenize a string into smaller strings based on a delimiter?
+A) strtoken()
+B) strtok()
+C) tokenstr()
+D) splitstr()
+
+Answer: B) strtok()
+
+Question 12:
+Which function is used to convert a string to an integer in C?
+A) atoi()
+B) itoa()
+C) inttostr()
+D) strint()
+
+Answer: A) atoi()
+
+Question 13:
+What function in C is used to convert a string to a floating-point number?
+A) atof()
+B) ftoa()
+C) floattostr()
+D) strtofloat()
+
+Answer: A) atof()
+
+Question 14:
+Which function in C is used to find a substring within a string?
+A) strstr()
+B) findstr()
+C) subfind()
+D) strsub()
+
+Answer: A) strstr()
+
+Question 15:
+What function is used to convert a character to its lowercase equivalent in C?
+A) tolower()
+B) lowerchar()
+C) chartolower()
+D) lowercase()
+
+Answer: A) tolower()
+
+Question 16:
+Which function in C is used to convert a character to its uppercase equivalent?
+A) toupper()
+B) upperchar()
+C) chartoupper()
+D) uppercase()
+
+Answer: A) toupper()
+
+Question 17:
+What function is used to reverse a string in C?
+A) strreverse()
+B) reversestr()
+C) revstr()
+D) strrev()
+
+Answer: D) strrev()
+
+Question 18:
+Which function in C is used to extract a portion of a string and place it into another buffer?
+A) strslice()
+B) substr()
+C) slice()
+D) strncpy()
+
+Answer: D) strncpy()
+
+Question 19:
+What function in C is used to compare a specified number of characters of two strings?
+A) strncomp()
+B) strncmp()
+C) comparen()
+D) strcomparen()
+
+Answer: B) strncmp()
+
+Question 20:
+Which function is used to find the occurrence of a substring within a string in C?
+A) strnstr()
+B) findsubstring()
+C) strsubsearch()
+D) strstr()
+
+Answer: D) strstr()
+
+Question 21:
+What function in C is used to convert an integer to a string?
+A) itoa()
+B) inttostr()
+C) strint()
+D) tostring()
+
+Answer: A) itoa()
+
+Question 22:
+Which function is used to find the first occurrence of any character in a string that belongs to a specified set of characters?
+A) strsetchar()
+B) charsearch()
+C) strcspn()
+D) strchar()
+
+Answer: C) strcspn()
+
+Question 23:
+What function in C is used to find the last occurrence of any character in a string that belongs to a specified set of characters?
+A) strrspn()
+B) strspn()
+C) strlastchar()
+D) strpbrk()
+
+Answer: D) strpbrk()
+
+Question 24:
+Which function is used to convert a floating-point number to a string in C?
+A) ftoa()
+B) floattostr()
+C) flttostr()
+D) floatstr()
+
+Answer: A) ftoa()
+
+Question 25:
+What function in C is used to check if two strings are equal?
+A) strequal()
+B) strcmp()
+C) strcheck()
+D) strcompare()
+
+Answer: B) strcmp()
+
+Question 26:
+Which function is used to determine the length of the maximum initial segment of a string that consists of only characters not in another string?
+A) strspn()
+B) strcspn()
+C) strpbrk()
+D) strdiff()
+
+Answer: B) strcspn()
+
+Question 27:
+What function in C is used to concatenate a specified number of characters from one string to another?
+A) strcat()
+B) strncat()
+C) concatn()
+D) stradd()
+
+Answer: B) strncat()
+
+Question 28:
+Which function is used to fill a block of memory with a particular value in C?
+A) memfill()
+B) memset()
+C) memzero()
+D) memassign()
+
+Answer: B) memset()
+
+Question 29:
+What function in C is used to find the length of the initial segment of a string consisting of only characters found in another string?
+A) strpbrk()
+B) strspn()
+C) strcspn()
+D) strcommon()
+
+Answer: B) strspn()
+
+Question 30:
+Which function is used to compare two strings without considering their case in C?
+A) strcasecmp()
+B) strcmp()
+C) stricmp()
+D) strcomparecase()
+
+Answer: C) stricmp()
+
+Question 31:
+What function in C is used to reverse the case of each character in a string?
+A) strcase()
+B) strrevcase()
+C) strchangecase()
+D) strlwr()
+
+Answer: C) strchangecase()
+
+Question 32:
+Which function is used to find the last occurrence of a character in a string in C?
+A) strfindlast()
+B) lastchar()
+C) strrchr()
+D) charlast()
+
+Answer: C) strrchr()
+
+Question 33:
+What function in C is used to compare a portion of two strings?
+A) strncmp()
+B) strncomp()
+C) strcomparen()
+D) comparen()
+
+Answer: A) strncmp()
+
+Question 34:
+Which function is used to convert a string to a long integer in C?
+A) atol()
+B) strtol()
+C) strlong()
+D) longtostr()
+
+Answer: B) strtol()
+
+Question 35:
+What function in C is used to find the first occurrence of a character not in a specified string?
+A) strnotchar()
+B) strspn()
+C) strcspn()
+D) strpbrk()
+
+Answer: C) strcspn()
+
+Question 36:
+Which function is used to convert a string to lowercase in C?
+A) strlower()
+B) tolowerstr()
+C) lowerstr()
+D) strlwr()
+
+Answer: D) strlwr()
+
+Question 37:
+What function in C is used to convert a string to uppercase?
+A) toupperstr()
+B) strupper()
+C) strupr()
+D) struppercase()
+
+Answer: C) strupr()
+
+Question 38:
+Which function is used to break a string into tokens based on a delimiter in C?
+A) splitstr()
+B) strsplit()
+C) strtok()
+D) tokstr()
+
+Answer: C) strtok()
+
+Question 39:
+What function in C is used to compare two strings in a case-insensitive manner?
+A) strcomparecase()
+B) strcasecmp()
+C) stricomp()
+D) strcasecompare()
+
+Answer: B) strcasecmp()
+
+Question 40:
+Which function is used to copy a specified number of characters from one string to another in C?
+A) strncopy()
+B) strncpy()
+C) copystr()
+D) strcopyn()
+
+Answer: B) strncpy()

@@ -1,0 +1,359 @@
+Question 1:
+What does Software Quality Assurance (SQA) focus on?
+A) Detecting software bugs
+B) Ensuring adherence to coding standards
+C) Assuring the quality of software processes and products
+D) Writing software documentation
+
+Answer: C) Assuring the quality of software processes and products
+
+Question 2:
+What is the primary goal of Software Quality Assurance (SQA)?
+A) Achieving the lowest possible project budget
+B) Delivering software within the shortest time frame
+C) Ensuring that software meets specified quality standards and user requirements
+D) Increasing the number of software features
+
+Answer: C) Ensuring that software meets specified quality standards and user requirements
+
+Question 3:
+What is the significance of 'Quality Control' in Software Quality Assurance (SQA)?
+A) Identifying software development methodologies
+B) Inspecting and testing software products to ensure they meet quality standards
+C) Creating software design patterns
+D) Managing project timelines
+
+Answer: B) Inspecting and testing software products to ensure they meet quality standards
+
+Question 4:
+What does 'Process Improvement' focus on in Software Quality Assurance (SQA)?
+A) Continuously enhancing software features
+B) Increasing the number of bugs in the software
+C) Improving software development and management processes
+D) Reducing the number of software users
+
+Answer: C) Improving software development and management processes
+
+Question 5:
+What is the role of 'Quality Standards' in Software Quality Assurance (SQA)?
+A) Creating new software coding languages
+B) Defining criteria and benchmarks for evaluating software quality
+C) Writing extensive software documentation
+D) Assigning tasks to project team members
+
+Answer: B) Defining criteria and benchmarks for evaluating software quality
+
+Question 6:
+What does 'Verification and Validation' involve in Software Quality Assurance (SQA)?
+A) Checking software requirements against coding standards
+B) Ensuring that the software meets user requirements and is error-free
+C) Writing software test cases
+D) Ignoring software bugs
+
+Answer: B) Ensuring that the software meets user requirements and is error-free
+
+Question 7:
+What is the primary purpose of 'Quality Audits' in Software Quality Assurance (SQA)?
+A) Finding the maximum number of bugs in the software
+B) Assessing compliance with defined processes, standards, and procedures
+C) Accelerating the software development process
+D) Decreasing the project budget
+
+Answer: B) Assessing compliance with defined processes, standards, and procedures
+
+Question 8:
+What is the role of 'Metrics' in Software Quality Assurance (SQA)?
+A) Increasing the number of software users
+B) Measuring and evaluating software quality and process performance using quantifiable data
+C) Improving software documentation
+D) Delaying software releases
+
+Answer: B) Measuring and evaluating software quality and process performance using quantifiable data
+
+Question 9:
+What does 'Software Testing' aim to achieve in Software Quality Assurance (SQA)?
+A) Identifying bugs and defects in the software
+B) Increasing the project budget
+C) Writing software code
+D) Ignoring user requirements
+
+Answer: A) Identifying bugs and defects in the software
+
+Question 10:
+What is the primary goal of 'Defect Tracking' in Software Quality Assurance (SQA)?
+A) Documenting software features
+B) Finding defects in the software
+C) Managing software development methodologies
+D) Enhancing software security
+
+Answer: B) Finding defects in the software
+
+Question 11:
+What does 'Continuous Improvement' emphasize in Software Quality Assurance (SQA)?
+A) Ensuring that software remains unchanged throughout its lifecycle
+B) Improving software processes and products continuously
+C) Reducing the number of software features
+D) Increasing the project timeline
+
+Answer: B) Improving software processes and products continuously
+
+Question 12:
+What is the primary objective of 'Configuration Management' in Software Quality Assurance (SQA)?
+A) Documenting software bugs
+B) Managing changes to software components and ensuring consistency
+C) Writing software test cases
+D) Increasing project risks
+
+Answer: B) Managing changes to software components and ensuring consistency
+
+Question 13:
+What does 'Peer Review' involve in Software Quality Assurance (SQA)?
+A) Analyzing software requirements
+B) Checking software code and design by team members
+C) Managing project documentation
+D) Delaying project deliverables
+
+Answer: B) Checking software code and design by team members
+
+Question 14:
+What is the purpose of 'Root Cause Analysis' in Software Quality Assurance (SQA)?
+A) Documenting user requirements
+B) Identifying and addressing the underlying causes of software defects or issues
+C) Increasing the number of software features
+D) Ignoring software bugs
+
+Answer: B) Identifying and addressing the underlying causes of software defects or issues
+
+Question 15:
+What does 'Test Planning' involve in Software Quality Assurance (SQA)?
+A) Writing software code
+B) Defining the strategy and approach for software testing
+C) Documenting software design patterns
+D) Accelerating project timelines
+
+Answer: B) Defining the strategy and approach for software testing
+
+Question 16:
+What is the role of 'Quality Management' in Software Quality Assurance (SQA)?
+A) Ensuring adherence to coding standards
+B) Overseeing software development
+C) Assuring that quality processes are followed and products meet defined standards
+D) Increasing project risks
+
+Answer: C) Assuring that quality processes are followed and products meet defined standards
+
+Question 17:
+What does 'Regression Testing' focus on in Software Quality Assurance (SQA)?
+A) Testing new software features
+B) Testing software performance
+C) Ensuring that changes in software do not adversely affect existing functionalities
+D) Writing new software code
+
+Answer: C) Ensuring that changes in software do not adversely affect existing functionalities
+
+Question 18:
+What is the significance of 'Quality Assurance Metrics' in Software Quality Assurance (SQA)?
+A) Defining software design patterns
+B) Measuring and evaluating the effectiveness of quality assurance activities
+C) Increasing the number of software bugs
+D) Delaying software releases
+
+Answer: B) Measuring and evaluating the effectiveness of quality assurance activities
+
+Question 19:
+What does 'Usability Testing' aim to evaluate in Software Quality Assurance (SQA)?
+A) Software bugs
+B) Software security
+C) The software's ease of use and user experience
+D) Project timelines
+
+Answer: C) The software's ease of use and user experience
+
+Question 20:
+What does 'Software Validation' involve in Software Quality Assurance (SQA)?
+A) Ensuring software meets user requirements and intended use
+B) Testing software security
+C) Documenting software bugs
+D) Delaying software releases
+
+Answer: A) Ensuring software meets user requirements and intended use
+
+Question 21:
+What is the purpose of 'Acceptance Testing' in Software Quality Assurance (SQA)?
+A) Checking software code
+B) Validating whether the software meets user requirements and is ready for deployment
+C) Writing extensive software documentation
+D) Defining software design patterns
+
+Answer: B) Validating whether the software meets user requirements and is ready for deployment
+
+Question 22:
+What does 'Quality Assurance Planning' involve in Software Quality Assurance (SQA)?
+A) Defining the software architecture
+B) Planning and outlining activities, processes, and resources required for quality assurance
+C) Writing software code
+D) Managing software bugs
+
+Answer: B) Planning and outlining activities, processes, and resources required for quality assurance
+
+Question 23:
+What is the role of 'Traceability Matrix' in Software Quality Assurance (SQA)?
+A) Documenting software features
+B) Tracing requirements to test cases, ensuring test coverage
+C) Increasing project risks
+D) Defining software design patterns
+
+Answer: B) Tracing requirements to test cases, ensuring test coverage
+
+Question 24:
+What does 'Static Testing' focus on in Software Quality Assurance (SQA)?
+A) Testing software performance
+B) Analyzing code and documentation without executing the software
+C) Documenting software bugs
+D) Increasing the number of software users
+
+Answer: B) Analyzing code and documentation without executing the software
+
+Question 25:
+What is the primary goal of 'Continuous Integration' in Software Quality Assurance (SQA)?
+A) Reducing the number of software features
+B) Deliberately delaying software releases
+C) Integrating code changes into a central repository frequently to detect defects early
+D) Ignoring user requirements
+
+Answer: C) Integrating code changes into a central repository frequently to detect defects early
+
+Question 26:
+What does 'Performance Testing' evaluate in Software Quality Assurance (SQA)?
+A) Software usability
+B) Software code quality
+C) The software's speed, responsiveness, and scalability under various conditions
+D) Defining software design patterns
+
+Answer: C) The software's speed, responsiveness, and scalability under various conditions
+
+Question 27:
+What is the significance of 'Code Review' in Software Quality Assurance (SQA)?
+A) Checking software bugs
+B) Evaluating software code for errors, adherence to coding standards, and optimization
+C) Writing new software code
+D) Increasing project budget
+
+Answer: B) Evaluating software code for errors, adherence to coding standards, and optimization
+
+Question 28:
+What does 'Risk-based Testing' prioritize in Software Quality Assurance (SQA)?
+A) Testing software performance
+B) Identifying and testing high-risk areas in the software
+C) Increasing software bugs intentionally
+D) Documenting software requirements
+
+Answer: B) Identifying and testing high-risk areas in the software
+
+Question 29:
+What is the role of 'Release Management' in Software Quality Assurance (SQA)?
+A) Ignoring software bugs
+B) Managing software testing activities
+C) Planning, scheduling, and controlling software releases
+D) Defining software design patterns
+
+Answer: C) Planning, scheduling, and controlling software releases
+
+Question 30:
+What does 'Black Box Testing' focus on in Software Quality Assurance (SQA)?
+A) Analyzing software code
+B) Testing the software's functionalities without considering internal code structure
+C) Documenting software bugs
+D) Defining software requirements
+
+Answer: B) Testing the software's functionalities without considering internal code structure
+
+Question 31:
+What is the purpose of 'Automated Testing' in Software Quality Assurance (SQA)?
+A) Increasing the project budget
+B) Reducing the number of software features
+C) Using tools to execute tests and compare actual outcomes with expected outcomes
+D) Ignoring software bugs intentionally
+
+Answer: C) Using tools to execute tests and compare actual outcomes with expected outcomes
+
+Question 32:
+What does 'Quality Assurance Reporting' involve in Software Quality Assurance (SQA)?
+A) Tracking the progress of software development
+B) Providing insights on quality assurance activities, issues, and resolutions to stakeholders
+C) Writing software code
+D) Increasing project risks
+
+Answer: B) Providing insights on quality assurance activities, issues, and resolutions to stakeholders
+
+Question 33:
+What is the role of 'Test Data Management' in Software Quality Assurance (SQA)?
+A) Documenting software bugs
+B) Managing data used in testing to ensure it aligns with test objectives
+C) Increasing project budget
+D) Delaying software releases
+
+Answer: B) Managing data used in testing to ensure it aligns with test objectives
+
+Question 34:
+What is the purpose of 'Usability Testing' in Software Quality Assurance (SQA)?
+A) Documenting software bugs
+B) Assessing the software's ease of use and user experience
+C) Increasing software performance
+D) Defining software design patterns
+
+Answer: B) Assessing the software's ease of use and user experience
+
+Question 35:
+What does 'End-to-End Testing' focus on in Software Quality Assurance (SQA)?
+A) Testing the software's overall functionality and behavior across multiple integrated systems
+B) Documenting software requirements
+C) Increasing the number of software bugs
+D) Delaying software releases
+
+Answer: A) Testing the software's overall functionality and behavior across multiple integrated systems
+
+Question 36:
+What is the significance of 'Test Case Design' in Software Quality Assurance (SQA)?
+A) Analyzing software bugs
+B) Creating detailed test cases based on requirements to validate software functionalities
+C) Documenting software design patterns
+D) Increasing project risks
+
+Answer: B) Creating detailed test cases based on requirements to validate software functionalities
+
+Question 37:
+What is the role of 'Accessibility Testing' in Software Quality Assurance (SQA)?
+A) Testing software performance
+B) Ensuring software accessibility for users with disabilities
+C) Documenting software bugs
+D) Defining software requirements
+
+Answer: B) Ensuring software accessibility for users with disabilities
+
+Question 38:
+What does 'Quality Assurance Training' involve in Software Quality Assurance (SQA)?
+A) Training team members on software design patterns
+B) Providing education and guidance on quality assurance practices and tools
+C) Increasing the project budget
+D) Ignoring software bugs
+
+Answer: B) Providing education and guidance on quality assurance practices and tools
+
+Question 39:
+What is the purpose of 'Regression Testing' in Software Quality Assurance (SQA)?
+A) Documenting software bugs
+B) Ensuring that changes in software do not adversely affect existing functionalities
+C) Increasing software performance
+D) Delaying software releases
+
+Answer: B) Ensuring that changes in software do not adversely affect existing functionalities
+
+Question 40:
+What is the significance of 'Test Execution' in Software Quality Assurance (SQA)?
+A) Analyzing software requirements
+B) Performing the actual testing using defined test cases and evaluating software functionality
+C) Increasing project risks
+D) Delaying project timelines
+
+Answer: B) Performing the actual testing using defined test cases and evaluating software functionality

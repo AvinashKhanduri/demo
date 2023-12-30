@@ -1,0 +1,319 @@
+Question 1:
+What is the purpose of conditional statements in programming?
+A) To execute code only if a specified condition is true
+B) To assign values to variables
+C) To create loops
+D) To print output to the console
+Answer: A
+
+Question 2:
+In programming, which statement is used to implement a simple 'if' condition?
+A) if-else
+B) if-elseif
+C) if
+D) if-then
+Answer: C
+
+Question 3:
+What symbol represents 'not equal to' in most programming languages?
+A) ==
+B) !=
+C) <>
+D) ><
+Answer: B
+
+Question 4:
+Which conditional statement in programming allows the execution of a block of code if the condition is false?
+A) else
+B) elif
+C) unless
+D) or
+Answer: A
+
+Question 5:
+In a 'switch' statement, what is used to indicate the end of a particular case?
+A) break
+B) stop
+C) exit
+D) end
+Answer: A
+
+Question 6:
+What happens if none of the conditions in an 'if-else if-else' ladder are true in programming?
+A) It throws an error
+B) It executes the default case
+C) It skips to the next block of code
+D) It continues executing the previous block
+Answer: B
+
+Question 7:
+Which logical operator in programming returns true if either of the conditions it connects are true?
+A) &&
+B) ||
+C) !
+D) !=
+Answer: B
+
+Question 8:
+What is the outcome of a conditional statement in programming if the condition evaluates to false?
+A) The code is skipped
+B) The code is executed
+C) It throws an error
+D) It goes into an infinite loop
+Answer: A
+
+Question 9:
+What does a ternary operator in programming consist of?
+A) Four operands
+B) Three operands
+C) Two operands
+D) One operand
+Answer: B
+
+Question 10:
+Which statement is used to exit a loop prematurely in programming?
+A) end
+B) stop
+C) exit
+D) break
+Answer: D
+
+Question 11:
+What does the 'else if' statement represent in programming?
+A) An alternative for 'else'
+B) A combination of 'if' and 'else'
+C) An additional condition following 'if'
+D) A loop
+Answer: C
+
+Question 12:
+In programming, what symbol denotes 'equal to'?
+A) =
+B) ==
+C) ===
+D) :=
+Answer: B
+
+Question 13:
+What is the outcome of a conditional statement if the condition evaluates to true?
+A) The code is skipped
+B) The code is executed
+C) It throws an error
+D) It goes into an infinite loop
+Answer: B
+
+Question 14:
+In a 'switch' statement, why is the 'default' case used?
+A) It is a mandatory case
+B) It executes when no other case matches
+C) It is used for user input
+D) It is the first case to be executed
+Answer: B
+
+Question 15:
+Which statement is used to execute a block of code repeatedly based on a given condition in programming?
+A) for loop
+B) if-else statement
+C) switch statement
+D) do-while loop
+Answer: D
+
+Question 16:
+What is the purpose of a logical operator in programming?
+A) To perform mathematical operations
+B) To evaluate conditional statements
+C) To print output
+D) To define functions
+Answer: B
+
+Question 17:
+What happens if the condition in a 'switch' statement does not match any of the cases?
+A) It throws an error
+B) It skips to the next case
+C) It executes the default case
+D) It terminates the program
+Answer: C
+
+Question 18:
+Which operator in programming is used to combine multiple conditions in an 'if' statement?
+A) &&
+B) ||
+C) !
+D) ==
+Answer: A
+
+Question 19:
+What does the '!= 'operator signify in programming?
+A) Less than or equal to
+B) Not equal to
+C) Greater than or equal to
+D) Equal to
+Answer: B
+
+Question 20:
+Which statement is used to check for multiple conditions in programming?
+A) if-else statement
+B) switch statement
+C) Nested if statement
+D) do-while loop
+Answer: C
+
+Question 21:
+In C, what is the syntax used for the 'if-else' statement?
+A) if condition { /* code block / } else { / code block / }
+B) if { / code block / } else { / code block / }
+C) if condition ( / code block / ) else ( / code block / )
+D) if { / code block / } else condition { / code block */ }
+Answer: A
+
+Question 22:
+Which operator is used for logical AND in C?
+A) &&
+B) ||
+C) !
+D) &
+Answer: A
+
+Question 23:
+What is the purpose of the 'else' statement in C?
+A) To execute a block of code when the condition is true
+B) To handle errors
+C) To execute a block of code when the condition is false
+D) To terminate the program
+Answer: C
+
+Question 24:
+What happens if the condition in an 'if' statement in C is not enclosed within parentheses?
+A) It causes a syntax error
+B) It executes the code regardless of the condition
+C) It throws a runtime error
+D) It ignores the condition
+Answer: A
+
+Question 25:
+What is the purpose of the 'switch' statement in C?
+A) To execute code based on the result of an expression
+B) To create loops
+C) To declare variables
+D) To print output to the console
+Answer: A
+
+Question 26:
+Which C keyword is used to exit from a 'switch' statement before reaching the end?
+A) halt
+B) stop
+C) break
+D) exit
+Answer: C
+
+Question 27:
+In C, what is the alternative way to represent 'else if' in a single word?
+A) elsif
+B) elif
+C) else-if
+D) elseif
+Answer: B
+
+Question 28:
+What is the outcome if a 'break' statement is not used within a 'case' block in a 'switch' statement in C?
+A) It causes a compilation error
+B) It continues to the next case block
+C) It throws a runtime error
+D) It executes the default case
+Answer: B
+
+Question 29:
+What C operator is used for the logical OR operation?
+A) &&
+B) ||
+C) !
+D) |
+Answer: B
+
+Question 30:
+Which type of loop structure in C can be used to execute a block of code repeatedly as long as the condition is true?
+A) while loop
+B) for loop
+C) do-while loop
+D) switch loop
+Answer: A
+
+Question 31:
+What does the 'default' case in a 'switch' statement represent in C?
+A) It is a mandatory case
+B) It executes when no other case matches
+C) It is the first case to be executed
+D) It is used for user input handling
+Answer: B
+
+Question 32:
+In C, what is the purpose of the 'nested if' statement?
+A) To handle exceptions
+B) To execute multiple conditions one after another
+C) To optimize code execution
+D) To create loops
+Answer: B
+
+Question 33:
+Which C keyword is used to invert the result of a condition?
+A) invert
+B) reverse
+C) not
+D) !
+Answer: D
+
+Question 34:
+In C, which logical operator is used to combine two conditions such that both must be true?
+A) ||
+B) &&
+C) !
+D) &
+Answer: B
+
+Question 35:
+What is the outcome if a 'break' statement is used within a loop in C?
+A) It ends the loop and moves to the next iteration
+B) It throws a runtime error
+C) It continues the loop without any effect
+D) It terminates the entire program
+Answer: A
+
+Question 36:
+What symbol is used for equality comparison in C?
+A) =
+B) ==
+C) ===
+D) !=
+Answer: B
+
+Question 37:
+In C, what is the effect of the 'continue' statement in a loop?
+A) It terminates the loop
+B) It skips the current iteration and continues with the next
+C) It restarts the loop from the beginning
+D) It throws a runtime error
+Answer: B
+
+Question 38:
+Which operator is used for the logical NOT operation in C?
+A) &&
+B) ||
+C) !
+D) ~
+Answer: C
+
+Question 39:
+What does the 'if-else if-else' statement allow in C?
+A) It allows only 'if' conditions to be checked
+B) It allows multiple conditions to be checked in sequence
+C) It allows the 'if' and 'else' statements to be nested
+D) It allows random conditions to be checked simultaneously
+Answer: B
+
+Question 40:
+Which statement is used to break out of the current loop iteration in C?
+A) exit
+B) halt
+C) stop
+D) continue
+Answer: D

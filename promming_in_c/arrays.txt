@@ -1,0 +1,457 @@
+Question 1:
+What is an array in programming?
+A) A collection of variables of different data types
+B) A collection of variables of the same data type stored in contiguous memory locations
+C) A variable that holds a single value
+D) A special type of pointer
+Answer: B
+
+Question 2:
+In C programming, arrays are indexed starting from:
+A) 0
+B) 1
+C) -1
+D) 10
+Answer: A
+
+Question 3:
+What is the maximum number of elements that can be stored in an array declared as int arr[10]?
+A) 10
+B) 9
+C) 11
+D) 0
+Answer: A
+
+Question 4:
+Which of the following is the correct way to access the third element in an array named numbers?
+A) numbers[2]
+B) numbers[3]
+C) numbers[0]
+D) numbers[1]
+Answer: A
+
+Question 5:
+What is the term used to describe the process of storing elements in an array?
+A) Initializing
+B) Declaring
+C) Inserting
+D) Indexing
+Answer: A
+
+Question 6:
+In C, what symbol is used to represent an array?
+A) ()
+B) {}
+C) []
+D) <>
+Answer: C
+
+Question 7:
+Which function is used to calculate the size of an array in C?
+A) length()
+B) size()
+C) sizeof()
+D) count()
+Answer: C
+
+Question 8:
+What is the name for an array that has not been initialized with specific values?
+A) Empty array
+B) Null array
+C) Uninitialized array
+D) Random array
+Answer: C
+
+Question 9:
+What happens if you try to access an index outside the bounds of an array in C?
+A) It returns zero
+B) It returns the last element of the array
+C) It causes a runtime error
+D) It automatically resizes the array
+Answer: C
+
+Question 10:
+Which statement is used to traverse an array in C?
+A) for loop
+B) while loop
+C) do-while loop
+D) switch statement
+Answer: A
+
+Question 11:
+In C, what is the process of passing the entire array to a function called?
+A) Array passing
+B) By reference
+C) By value
+D) Array decaying
+Answer: B
+
+Question 12:
+Which of the following represents the correct way to declare a two-dimensional array in C with 3 rows and 4 columns?
+A) int arr[4][3];
+B) int arr[3][4];
+C) int arr[12];
+D) int arr[3, 4];
+Answer: B
+
+Question 13:
+What is the index of the last element in an array with 20 elements in C?
+A) 19
+B) 20
+C) 0
+D) -1
+Answer: A
+
+Question 14:
+What is the term for accessing elements of an array based on their position?
+A) Element selection
+B) Element indexing
+C) Element mapping
+D) Element retrieval
+Answer: B
+
+Question 15:
+What is the default value of elements in an uninitialized array in C?
+A) 0
+B) 1
+C) Null
+D) Garbage values
+Answer: D
+
+Question 16:
+In C, which operator is used to access elements of an array?
+A) .
+B) :
+C) ,
+D) []
+Answer: D
+
+Question 17:
+What is the name for an array that has been initialized but not defined with a specific size in C?
+A) Flexible array
+B) Dynamic array
+C) Array initialization
+D) Variable-sized array
+Answer: D
+
+Question 18:
+Which function in C is used to copy one array to another?
+A) copy()
+B) array_copy()
+C) memcpy()
+D) strcpy()
+Answer: C
+
+Question 19:
+What is the term for a function that is automatically called when an array is passed to it in C?
+A) Array initializer
+B) Array handler
+C) Array destructor
+D) Array decayer
+Answer: D
+
+Question 20:
+Which loop in C is commonly used to traverse through a multidimensional array?
+A) for loop
+B) while loop
+C) do-while loop
+D) nested loop
+Answer: D
+
+Question 21:
+What is the process of allocating memory for an array during runtime in C known as?
+A) Static allocation
+B) Dynamic allocation
+C) Manual allocation
+D) Variable allocation
+Answer: B
+
+Question 22:
+In C, which function is used to find the smallest element in an array?
+A) smallest()
+B) min()
+C) find_min()
+D) None of the above
+Answer: D
+
+Question 23:
+What is the term for an array that can store a fixed number of elements in C?
+A) Fixed array
+B) Limited array
+C) Static array
+D) Constant array
+Answer: C
+
+Question 24:
+In C, which statement is used to initialize an array?
+A) assign
+B) initialize
+C) set
+D) =
+Answer: D
+
+Question 25:
+What is the term for an array that holds elements of the same data type in C?
+A) Data array
+B) Homogeneous array
+C) Identical array
+D) Similar array
+Answer: B
+
+Question 26:
+Which keyword in C is used to define an array as a constant?
+A) constant
+B) const
+C) final
+D) readonly
+Answer: B
+
+Question 27:
+What is the name for an array that is a collection of arrays in C?
+A) Multidimensional array
+B) Nested array
+C) Compound array
+D) Linked array
+Answer: A
+
+Question 28:
+In C, which function is used to find the largest element in an array?
+A) max()
+B) largest()
+C) find_max()
+D) None of the above
+Answer: D
+
+Question 29:
+What happens when an array size is not specified in C during initialization?
+A) It throws a compile-time error
+B) It assumes a size based on the number of elements
+C) It initializes with a size of zero
+D) It initializes with a default size
+Answer: B
+
+Question 30:
+Which loop in C is suitable for iterating through an array when the size is known?
+A) for loop
+B) while loop
+C) do-while loop
+D) switch loop
+Answer: A
+
+Question 31:
+What is the term for an array that is sorted in ascending or descending order in C?
+A) Sorted array
+B) Ordered array
+C) Arranged array
+D) Sequential array
+Answer: A
+
+Question 32:
+In C, what is the index of the first element in an array?
+A) -1
+B) 0
+C) 1
+D) 10
+Answer: B
+
+Question 33:
+What does the term "out of bounds" mean in relation to arrays in C?
+A) Accessing an element within the array's limits
+B) Accessing an element outside the array's defined boundaries
+C) Accessing the first element of the array
+D) Accessing the last element of the array
+Answer: B
+
+Question 34:
+In C, what function is used to find the sum of elements in an array?
+A) sum()
+B) total()
+C) calculate_sum()
+D) None of the above
+Answer: D
+
+Question 35:
+Which operator is used to access the value of an array element in C?
+A) .
+B) &
+C) *
+D) []
+Answer: D
+
+Question 36:
+What happens if you attempt to assign more values than the declared size of an array in C?
+A) Truncation of extra values
+B) Compilation error
+C) No effect, all values are assigned
+D) Runtime error
+Answer: B
+
+Question 37:
+What is the name for an array that holds elements in a sequential manner in memory in C?
+A) Linear array
+B) Sequential array
+C) Contiguous array
+D) Ordinal array
+Answer: C
+
+Question 38:
+Which function in C is used to find the average of elements in an array?
+A) avg()
+B) average()
+C) mean()
+D) None of the above
+Answer: D
+
+Question 39:
+In C, what is the process of combining two or more arrays called?
+A) Concatenation
+B) Merge
+C) Joining
+D) Combination
+Answer: A
+
+Question 40:
+What is the term for an array that is initialized with specific values during declaration in C?
+A) Set array
+B) Preset array
+C) Constant array
+D) Initialized array
+Answer: D
+
+Question 41:
+What is the term for an array whose elements are arranged in reverse order compared to the original array in C?
+A) Inverted array
+B) Reversed array
+C) Flip array
+D) Mirror array
+Answer: B
+
+Question 42:
+In C, which function is used to search for a specific element in an array?
+A) search()
+B) find()
+C) locate()
+D) None of the above
+Answer: D
+
+Question 43:
+Which term describes an array that contains no elements in C?
+A) Empty array
+B) Null array
+C) Zero array
+D) Void array
+Answer: A
+
+Question 44:
+In C, what is the process of removing an element from an array called?
+A) Deleting
+B) Eliminating
+C) Removing
+D) Erasing
+Answer: A
+
+Question 45:
+What is the term for an array that temporarily holds data during the execution of a program in C?
+A) Temporary array
+B) Cache array
+C) Buffer array
+D) Auxiliary array
+Answer: C
+
+Question 46:
+Which statement defines an array with 5 elements, all initialized to 0 in C?
+A) int arr[5] = {0};
+B) int arr[5] = {0, 0, 0, 0, 0};
+C) int arr[5];
+D) int arr[0] = {5};
+Answer: B
+
+Question 47:
+In C, which function is used to reverse the elements of an array?
+A) reverse()
+B) invert()
+C) flip()
+D) None of the above
+Answer: D
+
+Question 48:
+What is the term for an array that holds elements in a cyclical manner in C?
+A) Circular array
+B) Looping array
+C) Repeating array
+D) Recurring array
+Answer: A
+
+Question 49:
+Which function in C is used to compare two arrays for equality?
+A) compare()
+B) equals()
+C) memcmp()
+D) None of the above
+Answer: D
+
+Question 50:
+In C, what is the process of combining two or more arrays called?
+A) Concatenation
+B) Merge
+C) Joining
+D) Combination
+Answer: A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

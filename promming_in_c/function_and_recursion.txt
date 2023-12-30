@@ -1,0 +1,479 @@
+Question 1:
+What is the purpose of a function prototype in C?
+A) To define the function's implementation
+B) To declare the function's existence and signature
+C) To execute the function's code
+D) To define local variables within the function
+Answer: B
+
+Question 2:
+Which type of function cannot return any value in C?
+A) Void function
+B) Integer function
+C) Float function
+D) Double function
+Answer: A
+
+Question 3:
+What does the 'return' statement do in a function in C?
+A) Terminates the function and returns a value to the calling code
+B) Prints the output to the console
+C) Executes the next line of code
+D) Jumps to the beginning of the function
+Answer: A
+
+Question 4:
+What is the default return type of a function in C if no return type is specified?
+A) int
+B) void
+C) float
+D) double
+Answer: void
+
+Question 5:
+Which keyword in C is used to pass arguments by reference to a function?
+A) ref
+B) out
+C) ptr
+D) &
+Answer: D
+
+Question 6:
+In C, what is the scope of a variable declared within a function?
+A) Local to the function
+B) Global to the program
+C) Limited to the block where it's declared
+D) Accessible from any function in the program
+Answer: A
+
+Question 7:
+What is the purpose of a recursive function in C?
+A) To execute a specific code block repeatedly
+B) To avoid the use of loops
+C) To call itself within its own definition
+D) To terminate the program
+Answer: C
+
+Question 8:
+What is the significance of the 'static' keyword in a function declaration in C?
+A) It prevents the function from being called
+B) It limits the function's scope to the file where it is declared
+C) It allows the function to be called from any file
+D) It increases the function's execution speed
+Answer: B
+
+Question 9:
+What happens if a function is called in C before it is declared or defined?
+A) Compilation error
+B) Runtime error
+C) No effect, the function will be declared automatically
+D) The program executes without errors
+Answer: A
+
+Question 10:
+What is a function signature in C?
+A) Function's return type and name
+B) Function's implementation
+C) Function's local variables
+D) Function's prototype
+Answer: A
+
+Question 11:
+In C, what is the purpose of the 'void' keyword in a function declaration?
+A) It signifies that the function returns nothing
+B) It specifies the function's return type
+C) It defines a function that takes no arguments
+D) It marks the function as incomplete
+Answer: A
+
+Question 12:
+What is the process of passing the same function as an argument to another function in C called?
+A) Function embedding
+B) Function encapsulation
+C) Function overloading
+D) Function pointer
+Answer: D
+
+Question 13:
+What is the role of the 'extern' keyword in a function declaration in C?
+A) It specifies the function's visibility to other files
+B) It defines the function as external to the program
+C) It declares the function as internal
+D) It restricts the function's access within the file
+Answer: A
+
+Question 14:
+What does the 'inline' keyword signify in a function declaration in C?
+A) It indicates the function is executed inline with the calling code
+B) It denotes the function is incomplete
+C) It specifies the function's return type
+D) It allows the function to be called from any file
+Answer: A
+
+Question 15:
+In C, what is the purpose of a function parameter?
+A) To hold the function's return value
+B) To define the function's name
+C) To accept input values and pass data to the function
+D) To execute the function's code
+Answer: C
+
+Question 16:
+What is the role of a function header in C?
+A) It defines the function's name
+B) It specifies the function's arguments
+C) It contains the function's return type and name
+D) It marks the beginning of the function's implementation
+Answer: C
+
+Question 17:
+What is a function prototype in C?
+A) Function's definition and implementation
+B) Function's return type and name declaration
+C) Function's local variables
+D) Function's header
+Answer: B
+
+Question 18:
+What is the purpose of the 'register' keyword in a function argument in C?
+A) It reserves memory space for the argument
+B) It allows the argument to be passed by reference
+C) It requests the compiler to store the argument in a CPU register
+D) It prevents the argument from being modified
+Answer: C
+
+Question 19:
+In C, what happens if a function is called with fewer arguments than declared in its prototype?
+A) Compilation error
+B) Runtime error
+C) No effect, the missing arguments are assumed as default values
+D) The program executes without errors
+Answer: A
+
+Question 20:
+What is the process of passing multiple arguments to a function as a single unit called in C?
+A) Function aggregation
+B) Function composition
+C) Function encapsulation
+D) Function packing
+Answer: D
+
+Question 21:
+What is the purpose of a function declaration in C?
+A) To define the function's behavior
+B) To call the function
+C) To declare the function's existence and interface
+D) To execute the function's code
+Answer: C
+
+Question 22:
+What is the significance of a recursive function's termination condition in C?
+A) It defines the return type
+B) It ensures the function does not call itself infinitely
+C) It allows the function to execute faster
+D) It declares local variables
+Answer: B
+
+Question 23:
+In C, what is the purpose of passing arguments by value to a function?
+A) To modify the arguments
+B) To pass arguments by reference
+C) To create local copies of arguments within the function
+D) To restrict access to the arguments
+Answer: C
+
+Question 24:
+Which keyword is used in a function definition to specify the data type of the return value in C?
+A) type
+B) return
+C) void
+D) int
+Answer: D
+
+Question 25:
+What happens if the return statement is omitted from a non-void function in C?
+A) Compilation error
+B) Runtime error
+C) It returns NULL
+D) The function returns a default value based on its data type
+Answer: A
+
+Question 26:
+What is the role of the 'sizeof' operator in C functions?
+A) To determine the size of the function
+B) To calculate the number of parameters
+C) To find the size of variables in the function
+D) To measure the size of data types used in the function
+Answer: D
+
+Question 27:
+What does the 'static' keyword signify in a function definition in C?
+A) It limits the function's scope to the file where it's defined
+B) It prevents the function from being called
+C) It allows the function to be accessed from other files
+D) It increases the function's execution speed
+Answer: A
+
+Question 28:
+What is the purpose of function prototypes in C?
+A) To define the function's behavior
+B) To declare the function's implementation
+C) To declare the function's existence and signature
+D) To call the function
+Answer: C
+
+Question 29:
+What does the 'exit()' function do in C?
+A) Terminates the entire program
+B) Terminates the current loop
+C) Terminates the function
+D) Terminates the current statement
+Answer: A
+
+Question 30:
+What is the outcome if a function is called with more arguments than declared in its prototype in C?
+A) Compilation error
+B) Runtime error
+C) Excess arguments are ignored
+D) The extra arguments are treated as default values
+Answer: A
+
+Question 31:
+In C, what is the purpose of a function parameter list?
+A) To define the function's return type
+B) To declare local variables
+C) To list arguments the function expects to receive
+D) To specify the function's name
+Answer: C
+
+Question 32:
+What happens if a function is called with incorrect argument data types in C?
+A) Compilation error
+B) Runtime error
+C) Implicit type conversion occurs
+D) It automatically converts the argument data types
+Answer: A
+
+Question 33:
+What is the effect of declaring a function with 'static' storage class in C?
+A) It allows access to the function from other files
+B) It limits the function's scope to the block where it's defined
+C) It increases the function's execution speed
+D) It makes the function a constant
+Answer: B
+
+Question 34:
+What is the purpose of the 'typedef' keyword in function declarations in C?
+A) It specifies the function's return type
+B) It creates a new data type for the function
+C) It renames the function
+D) It defines function prototypes
+Answer: B
+
+Question 35:
+What does a function declaration without parameters imply in C?
+A) It indicates the function doesn't return any value
+B) It signifies the function has an unspecified number of parameters
+C) It implies the function is not defined
+D) It denotes the function doesn't take any arguments
+Answer: D
+
+Question 36:
+What happens if the 'return' statement is encountered in a void function in C?
+A) It terminates the program
+B) It throws a runtime error
+C) It is ignored
+D) It returns a default value
+Answer: C
+
+Question 37:
+What is the purpose of the 'const' keyword in a function parameter in C?
+A) It denotes that the function parameter cannot be modified inside the function
+B) It ensures the parameter is passed by reference
+C) It makes the parameter a constant value
+D) It restricts the parameter's scope
+Answer: A
+
+Question 38:
+In C, what is the effect of calling a function recursively without an exit condition?
+A) Compilation error
+B) Runtime error
+C) Infinite recursion
+D) The program terminates
+Answer: C
+
+Question 39:
+What is the significance of the 'volatile' keyword in a function definition in C?
+A) It ensures the function's return value is volatile
+B) It specifies the function's parameters as volatile
+C) It indicates the function's variables can change asynchronously
+D) It prevents the function from being modified
+Answer: C
+
+Question 40:
+What is the process of bundling functions and variables together known as in C?
+A) Function encapsulation
+B) Function composition
+C) Function abstraction
+D) Function aggregation
+Answer: A
+
+Question 41:
+What is the purpose of a function prototype in C programming?
+A) To specify the function's implementation details
+B) To declare the function's return type and parameters
+C) To define the function's behavior
+D) To call the function from another function
+Answer: B
+
+Question 42:
+What is a function signature composed of in C?
+A) Function's name and implementation
+B) Function's return type and name
+C) Function's local variables
+D) Function's prototype
+Answer: B
+
+Question 43:
+What does the 'void' keyword indicate in a function declaration in C?
+A) It denotes that the function does not take any arguments
+B) It specifies the function's return type
+C) It defines the function as incomplete
+D) It represents the function's name
+Answer: A
+
+Question 44:
+What is the purpose of passing arguments by reference in C functions?
+A) To create local copies of arguments
+B) To modify the original arguments outside the function
+C) To restrict access to the arguments
+D) To pass arguments without modifying them
+Answer: B
+
+Question 45:
+Which keyword is used to declare a function in C that does not return any value?
+A) int
+B) void
+C) return
+D) null
+Answer: B
+
+Question 46:
+What is the scope of a variable declared inside a function in C?
+A) Local to the block where it's declared
+B) Global to the program
+C) Accessible from any function in the program
+D) Limited to the function where it's defined
+Answer: A
+
+Question 47:
+What is the significance of a static variable inside a function in C?
+A) It retains its value between function calls
+B) It cannot be accessed from within the function
+C) It can be modified by other functions
+D) It is initialized with a constant value
+Answer: A
+
+Question 48:
+What does the 'return' statement do in a C function?
+A) Prints output to the console
+B) Terminates the function and returns a value to the calling code
+C) Executes the next line of code
+D) Calls another function
+Answer: B
+
+Question 49:
+In C, what is the role of the 'extern' keyword in a function declaration?
+A) It specifies the function's visibility to other files
+B) It declares the function as internal
+C) It restricts the function's access within the file
+D) It limits the function's scope
+Answer: A
+
+Question 50:
+What is the primary purpose of function parameters in C?
+A) To define the function's return type
+B) To declare local variables
+C) To accept input values and pass data to the function
+D) To specify the function's name
+Answer: C
+
+Question 51:
+What does the 'inline' keyword indicate in a function declaration in C?
+A) It specifies the function's return type
+B) It indicates the function is executed inline with the calling code
+C) It allows the function to be called from any file
+D) It marks the function as incomplete
+Answer: B
+
+Question 52:
+What happens if a function is called with fewer arguments than declared in its prototype in C?
+A) Compilation error
+B) Runtime error
+C) No effect, the missing arguments are assumed as default values
+D) The program executes without errors
+Answer: A
+
+Question 53:
+What is the purpose of a function declaration without a body in C?
+A) It defines the function's name
+B) It declares the function's return type and parameters
+C) It specifies the function's behavior
+D) It executes the function's code
+Answer: B
+
+Question 54:
+In C, what does the 'register' keyword indicate in a function parameter?
+A) It reserves memory space for the argument
+B) It restricts the parameter's scope
+C) It allows the argument to be passed by reference
+D) It requests the compiler to store the argument in a CPU register
+Answer: D
+
+Question 55:
+What happens if a function is called with incorrect argument data types in C?
+A) Compilation error
+B) Runtime error
+C) Implicit type conversion occurs
+D) It automatically converts the argument data types
+Answer: A
+
+Question 56:
+What is the significance of a 'volatile' keyword in a function definition in C?
+A) It ensures the function's return value is volatile
+B) It specifies the function's parameters as volatile
+C) It indicates the function's variables can change asynchronously
+D) It prevents the function from being modified
+Answer: C
+
+Question 57:
+What is the process of passing multiple arguments to a function as a single unit called in C?
+A) Function aggregation
+B) Function composition
+C) Function encapsulation
+D) Function packing
+Answer: D
+
+Question 58:
+What is the outcome if a function is called with more arguments than declared in its prototype in C?
+A) Compilation error
+B) Runtime error
+C) Excess arguments are ignored
+D) The extra arguments are treated as default values
+Answer: A
+
+Question 59:
+In C, what happens if the 'return' statement is encountered in a void function?
+A) It terminates the program
+B) It throws a runtime error
+C) It is ignored
+D) It returns a default value
+Answer: C
+
+Question 60:
+What is the process of bundling functions and variables together known as in C?
+A) Function encapsulation
+B) Function composition
+C) Function abstraction
+D) Function aggregation
+Answer: A

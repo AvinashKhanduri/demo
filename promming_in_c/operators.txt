@@ -1,0 +1,359 @@
+Question 1:
+Which operator is used to perform addition in C?
+A) +
+B) *
+C) /
+D) -
+
+Answer: A) +
+
+Question 2:
+What is the operator used to perform multiplication in C?
+A) +
+B) *
+C) /
+D) -
+
+Answer: B) *
+
+Question 3:
+Which operator is used to perform division in C?
+A) +
+B) *
+C) /
+D) -
+
+Answer: C) /
+
+Question 4:
+What operator is used to perform subtraction in C?
+A) +
+B) *
+C) /
+D) -
+
+Answer: D) -
+
+Question 5:
+Which operator is used for modulus in C?
+A) %
+B) &
+C) |
+D) ^
+
+Answer: A) %
+
+Question 6:
+What is the operator used to perform logical AND operation in C?
+A) &&
+B) ||
+C) !
+D) &
+
+Answer: A) &&
+
+Question 7:
+Which operator is used to perform logical OR operation in C?
+A) &&
+B) ||
+C) !
+D) &
+
+Answer: B) ||
+
+Question 8:
+What operator is used for bitwise AND operation in C?
+A) &&
+B) ||
+C) !
+D) &
+
+Answer: D) &
+
+Question 9:
+Which operator is used for bitwise OR operation in C?
+A) &&
+B) ||
+C) !
+D) |
+
+Answer: D) |
+
+Question 10:
+What is the operator used for bitwise XOR operation in C?
+A) &&
+B) ||
+C) ^
+D) ~
+
+Answer: C) ^
+
+Question 11:
+Which operator is used for logical NOT operation in C?
+A) &&
+B) ||
+C) !
+D) &
+
+Answer: C) !
+
+Question 12:
+What operator is used to perform left shift in C?
+A) <<
+B) >>
+C) &
+D) |
+
+Answer: A) <<
+
+Question 13:
+Which operator is used for right shift in C?
+A) <<
+B) >>
+C) &
+D) |
+
+Answer: B) >>
+
+Question 14:
+What is the operator used to compare two values for equality in C?
+A) =
+B) ==
+C) ===
+D) !=
+
+Answer: B) ==
+
+Question 15:
+Which operator is used for inequality comparison in C?
+A) =
+B) ==
+C) ===
+D) !=
+
+Answer: D) !=
+
+Question 16:
+What operator is used to perform less than comparison in C?
+A) >
+B) <
+C) >=
+D) <=
+
+Answer: B) <
+
+Question 17:
+Which operator is used for greater than comparison in C?
+A) >
+B) <
+C) >=
+D) <=
+
+Answer: A) >
+
+Question 18:
+What is the operator used to perform greater than or equal to comparison in C?
+A) >
+B) <
+C) >=
+D) <=
+
+Answer: C) >=
+
+Question 19:
+Which operator is used for less than or equal to comparison in C?
+A) >
+B) <
+C) >=
+D) <=
+
+Answer: D) <=
+
+Question 20:
+What is the operator used for assignment in C?
+A) =
+B) :=
+C) ==
+D) +=
+
+Answer: A) =
+
+Question 31:
+Which operator in C is used for compound assignment by performing a bitwise left shift and then assigning?
+A) <<=
+B) >>=
+C) &=
+D) |=
+
+Answer: A) <<=
+
+Question 32:
+What operator is used for compound assignment by performing a bitwise right shift and then assigning in C?
+A) <<=
+B) >>=
+C) &=
+D) |=
+
+Answer: B) >>=
+
+Question 33:
+Which operator is used for compound assignment by performing a bitwise XOR and then assigning in C?
+A) &=
+B) |=
+C) ^=
+D) <<=
+
+Answer: C) ^=
+
+Question 34:
+What operator in C is used for compound assignment by performing a bitwise OR and then assigning?
+A) &=
+B) |=
+C) ^=
+D) <<=
+
+Answer: B) |=
+
+Question 35:
+Which operator is used for compound assignment by performing a bitwise AND and then assigning in C?
+A) &=
+B) |=
+C) ^=
+D) <<=
+
+Answer: A) &=
+
+Question 36:
+What operator in C is used for compound assignment by subtracting and then assigning?
+A) ++
+B) --
+C) +=
+D) *=
+
+Answer: B) --
+
+Question 37:
+Which operator is used for compound assignment by adding and then assigning in C?
+A) ++
+B) --
+C) +=
+D) *=
+
+Answer: C) +=
+
+Question 38:
+What operator in C is used for compound assignment by incrementing and then assigning?
+A) ++
+B) --
+C) +=
+D) *=
+
+Answer: A) ++
+
+Question 39:
+Which operator is used for compound assignment by decrementing and then assigning in C?
+A) ++
+B) --
+C) +=
+D) *=
+
+Answer: B) --
+
+Question 40:
+What operator in C is used for compound assignment by multiplying and then assigning?
+A) +=
+B) -=
+C) /=
+D) *=
+
+Answer: D) *=
+
+Question 41:
+Which operator is used for compound assignment by dividing and then assigning in C?
+A) +=
+B) -=
+C) /=
+D) *=
+
+Answer: C) /=
+
+Question 42:
+What operator in C is used for compound assignment by finding the remainder after division and then assigning?
+A) %=
+B) /=
+C) *=
+D) +=
+
+Answer: A) %=
+
+Question 43:
+Which operator is used for compound assignment by performing a bitwise left shift and then assigning in C?
+A) <<=
+B) >>=
+C) &=
+D) |=
+
+Answer: A) <<=
+
+Question 44:
+What operator in C is used for compound assignment by performing a bitwise right shift and then assigning?
+A) <<=
+B) >>=
+C) &=
+D) |=
+
+Answer: B) >>=
+
+Question 45:
+Which operator is used for compound assignment by performing a bitwise XOR and then assigning in C?
+A) &=
+B) |=
+C) ^=
+D) <<=
+
+Answer: C) ^=
+
+Question 46:
+What operator in C is used for compound assignment by performing a bitwise OR and then assigning?
+A) &=
+B) |=
+C) ^=
+D) <<=
+
+Answer: B) |=
+
+Question 47:
+Which operator is used for compound assignment by performing a bitwise AND and then assigning in C?
+A) &=
+B) |=
+C) ^=
+D) <<=
+
+Answer: A) &=
+
+Question 48:
+What operator in C is used for compound assignment by subtracting and then assigning?
+A) ++
+B) --
+C) +=
+D) *=
+
+Answer: B) --
+
+Question 49:
+Which operator is used for compound assignment by adding and then assigning in C?
+A) ++
+B) --
+C) +=
+D) *=
+
+Answer: C) +=
+
+Question 50:
+What operator in C is used for compound assignment by incrementing and then assigning?
+A) ++
+B) --
+C) +=
+D) *=
+
+Answer: A) ++

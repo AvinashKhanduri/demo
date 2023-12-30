@@ -1,0 +1,179 @@
+Question 1:
+What is a structure in C?
+A) A function
+B) A collection of different data types grouped together
+C) A loop statement
+D) A library in C
+
+Answer: B) A collection of different data types grouped together
+
+Question 2:
+How do you define a structure in C?
+A) struct { }
+B) define struct { }
+C) typedef { }
+D) typedef struct { }
+
+Answer: D) typedef struct { }
+
+Question 3:
+What does the keyword 'typedef' do when used with structures in C?
+A) Declares a new type name for the structure
+B) Defines a structure member
+C) Initializes a structure
+D) Copies the structure
+
+Answer: A) Declares a new type name for the structure
+
+Question 4:
+Which operator is used to access members of a structure in C?
+A) .
+B) ::
+C) *
+D) ->
+
+Answer: A) .
+
+Question 5:
+What is the size of an empty structure in C?
+A) 0
+B) 1
+C) Depends on the compiler
+D) 4
+
+Answer: C) Depends on the compiler
+
+Question 6:
+How do you access a structure pointer member in C?
+A) ::
+B) -
+C) *
+D) ->
+
+Answer: D) ->
+
+Question 7:
+Which statement is used to define an instance of a structure in C?
+A) struct instance_name;
+B) struct { } instance_name;
+C) instance_name;
+D) struct structure_name instance_name;
+
+Answer: D) struct structure_name instance_name;
+
+Question 8:
+What is the keyword used to access a structure's elements through a pointer in C?
+A) ::
+B) .
+C) ->
+D) *
+
+Answer: C) ->
+
+Question 9:
+What is the purpose of a structure in C?
+A) To perform mathematical operations
+B) To declare variables
+C) To organize related data items
+D) To execute conditional statements
+
+Answer: C) To organize related data items
+
+Question 10:
+Can a structure contain a member of the same type as itself in C?
+A) Yes, but only with certain restrictions
+B) No, it's not allowed
+C) Yes, without any restrictions
+D) Yes, only with typedef
+
+Answer: A) Yes, but only with certain restrictions
+
+Question 11:
+Which function is used to compare two structures in C?
+A) compare_structs()
+B) strcmp()
+C) struct_compare()
+D) memcmp()
+
+Answer: D) memcmp()
+
+Question 12:
+What is the keyword used to declare a structure in C?
+A) class
+B) struct
+C) define
+D) typedef
+
+Answer: B) struct
+
+Question 13:
+Which one of these statements about structures in C is true?
+A) Structures cannot contain functions
+B) Structures cannot be passed as function arguments
+C) Structures can have arrays as members
+D) Structures cannot have pointers as members
+
+Answer: C) Structures can have arrays as members
+
+Question 14:
+How do you initialize a structure in C?
+A) struct_name = { }
+B) struct struct_name = { }
+C) struct_name { }
+D) struct_name = struct { }
+
+Answer: B) struct struct_name = { }
+
+Question 15:
+What is the purpose of the sizeof() operator with structures in C?
+A) Determines the size of each member in the structure
+B) Calculates the total size of the structure in bytes
+C) Measures the length of a string in the structure
+D) Finds the number of elements in the structure
+
+Answer: B) Calculates the total size of the structure in bytes
+
+Question 16:
+How can you pass a structure to a function in C?
+A) Only by passing individual members
+B) By using pointers to the structure
+C) By passing the structure as a whole
+D) By passing the structure's address
+
+Answer: C) By passing the structure as a whole
+
+Question 17:
+Which operator is used to declare a pointer to a structure in C?
+A) ::
+B) ->
+C) *
+D) &
+
+Answer: C) *
+
+Question 18:
+What is the keyword used to assign values to structure members in C?
+A) assign
+B) set
+C) access
+D) .
+
+Answer: D) .
+
+Question 19:
+How do you access a structure member using a pointer to the structure in C?
+A) ->
+B) .
+C) ::
+D) *
+
+Answer: A) ->
+
+Question 20:
+What is the purpose of the typedef keyword when defining a structure in C?
+A) It defines a new variable
+B) It specifies the number of members in the structure
+C) It creates an alias for the structure type
+D) It initializes the structure with default values
+
+Answer: C) It creates an alias for the structure type
